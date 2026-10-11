@@ -1,0 +1,75 @@
+{
+  "session_id": "idp-fix-fresh-01",
+  "mode": "rag",
+  "answer": "Có thể **xin cấp lại**, không thấy quy định phải thi lại trong tài liệu bạn cung cấp. Cụ thể, Thông tư 29/2015/TT-BGTVT quy định: **“Trường hợp IDP bị mất hoặc hư hỏng, cá nhân lập đơn đề nghị cấp lại theo quy định tại khoản 1 Điều này.”** [1]\n\nĐiều này cho thấy với **giấy phép lái xe quốc tế (IDP)** bị mất, bạn làm **đơn đề nghị cấp lại** theo mẫu và nộp như thủ tục cấp IDP ban đầu; khi nộp đơn phải xuất trình **bản chính giấy phép lái xe quốc gia do Việt Nam cấp, hộ chiếu, thẻ thường trú (đối với người nước ngoài) còn giá trị** để kiểm tra, đối chiếu. [1]\n\nTài liệu cũng không nêu trường hợp bị mất IDP thì phải thi lại. Ngược lại, quy định về cấp lại là thủ tục hành chính. [1]\n\nLưu ý:\n- IDP do Việt Nam cấp **không có giá trị sử dụng trong lãnh thổ Việt Nam**. [3]\n- Khi sử dụng ở nước tham gia Công ước Viên, người lái phải mang theo **IDP và giấy phép lái xe quốc gia**. [3]\n\nNếu bạn muốn, tôi có thể giúp bạn tóm tắt **hồ sơ và nơi nộp** theo đúng điều khoản này.",
+  "results": [
+    {
+      "rank": 1,
+      "score": 0.9164,
+      "chunk_id": "e85b959216ecec3d583def89",
+      "document_id": "29/2015/TT-BGTVT",
+      "document_id_source": "header",
+      "title": "THÔNG TƯ — Quy định về cấp, sử dụng giấy phép lái xe quốc tế",
+      "article": "Điều 8. Thủ tục cấp giấy phép lái xe quốc tế",
+      "source_file": "29.2015.TT.BGTVT.docx",
+      "content": "Điều 8. Thủ tục cấp giấy phép lái xe quốc tế\n1. Cá nhân nộp đơn đề nghị cấp IDP theo mẫu quy định tại Phụ lục IV ban hành kèm theo Thông tư này. Khi nộp đơn phải xuất trình bản chính giấy phép lái xe quốc gia do Việt Nam cấp, hộ chiếu, thẻ thường trú (đối với người nước ngoài) còn giá trị để kiểm tra, đối chiếu.\n2. Trình tự cấp IDP\na) Cá nhân nộp đơn đề nghị cấp IDP theo quy định tại khoản 1 Điều này trực tiếp tại Tổng cục Đường bộ Việt Nam hoặc Sở Giao thông vận tải để thực hiện kiểm tra tính chính xác và hợp pháp của việc cấp IDP. Trường hợp đơn đề nghị không đúng theo quy định thì hướng dẫn thực hiện ngay khi tiếp nhận;\nb) Trong thời hạn không quá 05 ngày làm việc, kể từ ngày nhận được đơn đề nghị cấp IDP, Tổng cục Đường bộ Việt Nam hoặc Sở Giao thông vận tải thực hiện việc cấp IDP cho cá nhân; trường hợp không cấp IDP thì phải trả lời và nêu rõ lý do.\n3. Trường hợp IDP bị mất hoặc hư hỏng, cá nhân lập đơn đề nghị cấp lại theo quy định tại khoản 1 Điều này.\n4. Không cấp IDP đối với các trường hợp sau đây:\na) Giấy phép lái xe quốc gia bị tẩy xóa, hư hỏng không còn đủ các thông tin cần thiết hoặc có sự khác biệt về nhận dạng;\nb) Giấy phép lái xe quốc gia không do cơ quan có thẩm quyền cấp theo quy định.\n5. Trường hợp phát hiện cá nhân có hành vi gian dối để được cấp IDP, tẩy xóa hoặc làm sai lệch thông tin trên IDP được cấp, ngoài việc bị cơ quan cấp IDP ra quyết định thu hồi IDP, cá nhân đó còn phải chịu trách nhiệm trước pháp luật và không được cấp IDP trong thời hạn 03 năm, kể từ ngày bị phát hiện hành vi vi phạm."
+    },
+    {
+      "rank": 2,
+      "score": 0.9154,
+      "chunk_id": "86bd46debdd0fbd7b9b12df1",
+      "document_id": "29/2015/TT-BGTVT",
+      "document_id_source": "header",
+      "title": "THÔNG TƯ — Quy định về cấp, sử dụng giấy phép lái xe quốc tế",
+      "article": "Điều 8. Thủ tục cấp giấy phép lái xe quốc tế",
+      "source_file": "VanBanGoc_29.2015.TT.BGTVT.pdf",
+      "content": "Điều 8. Thủ tục cấp giấy phép lái xe quốc tế\n1. Cá nhân nộp đơn đề nghị cấp IDP theo mẫu quy định tại Phụ lục IV ban\nhành kèm theo Thông tư này. Khi nộp đơn phải xuất trình bản chính giấy phép lái\nxe quốc gia do Việt Nam cấp, hộ chiếu, thẻ thường trú (đối với người nước ngoài)\ncòn giá trị để kiểm tra, đối chiếu.\n\n2. Trình tự cấp IDP\na) Cá nhân nộp đơn đề nghị cấp IDP theo quy định tại khoản 1 Điều này trực\ntiếp tại Tổng cục Đường bộ Việt Nam hoặc Sở Giao thông vận tải để thực hiện\nkiểm tra tính chính xác và hợp pháp của việc cấp IDP. Trường hợp đơn đề nghị\nkhông đúng theo quy định thì hướng dẫn thực hiện ngay khi tiếp nhận;\n\nb) Trong thời hạn không quá 05 ngày làm việc, kể từ ngày nhận được đơn đề\nnghị cấp IDP, Tổng cục Đường bộ Việt Nam hoặc Sở Giao thông vận tải thực hiện\nviệc cấp IDP cho cá nhân; trường hợp không cấp IDP thì phải trả lời và nêu rõ lý do.\n\n3. Trường hợp IDP bị mất hoặc hư hỏng, cá nhân lập đơn đề nghị cấp lại theo\n\nquy định tại khoản 1 Điều này.\n\n\fCÔNG BÁO/Số 859 + 860/Ngày 24-7-2015\n\n21\n\n4. Không cấp IDP đối với các trường hợp sau đây:\n\na) Giấy phép lái xe quốc gia bị tẩy xóa, hư hỏng không còn đủ các thông tin\n\ncần thiết hoặc có sự khác biệt về nhận dạng;\n\nb) Giấy phép lái xe quốc gia không do cơ quan có thẩm quyền cấp theo quy định.\n\n5. Trường hợp phát hiện cá nhân có hành vi gian dối để được cấp IDP, tẩy xóa\nhoặc làm sai lệch thông tin trên IDP được cấp, ngoài việc bị cơ quan cấp IDP ra\nquyết định thu hồi IDP, cá nhân đó còn phải chịu trách nhiệm trước pháp luật và\nkhông được cấp IDP trong thời hạn 03 năm, kể từ ngày bị phát hiện hành vi vi phạm."
+    },
+    {
+      "rank": 3,
+      "score": 0.8983,
+      "chunk_id": "a619cafb6419190e2764107b",
+      "document_id": "29/2015/TT-BGTVT",
+      "document_id_source": "header",
+      "title": "THÔNG TƯ — Quy định về cấp, sử dụng giấy phép lái xe quốc tế",
+      "article": "Điều 10. Sử dụng giấy phép lái xe quốc tế do Việt Nam cấp",
+      "source_file": "VanBanGoc_29.2015.TT.BGTVT.pdf",
+      "content": "Điều 10. Sử dụng giấy phép lái xe quốc tế do Việt Nam cấp\n\n1. Người có IDP do Việt Nam cấp khi điều khiển phương tiện cơ giới tham gia\ngiao thông trên lãnh thổ nước tham gia Công ước Viên phải mang theo IDP và giấy\nphép lái xe quốc gia; tuân thủ pháp luật giao thông đường bộ của nước sở tại.\n\n2. IDP do Việt Nam cấp không có giá trị sử dụng trong lãnh thổ Việt Nam.\n\n\f22\n\nCÔNG BÁO/Số 859 + 860/Ngày 24-7-2015"
+    },
+    {
+      "rank": 4,
+      "score": 0.8946,
+      "chunk_id": "e4cc5177cef207e66f4170fe",
+      "document_id": "29/2015/TT-BGTVT",
+      "document_id_source": "header",
+      "title": "THÔNG TƯ — Quy định về cấp, sử dụng giấy phép lái xe quốc tế",
+      "article": "Điều 10. Sử dụng giấy phép lái xe quốc tế do Việt Nam cấp",
+      "source_file": "29.2015.TT.BGTVT.docx",
+      "content": "Điều 10. Sử dụng giấy phép lái xe quốc tế do Việt Nam cấp\n1. Người có IDP do Việt Nam cấp khi điều khiển phương tiện cơ giới tham gia giao thông trên lãnh thổ nước tham gia Công ước Viên phải mang theo IDP và giấy phép lái xe quốc gia; tuân thủ pháp luật giao thông đường bộ của nước sở tại.\n2. IDP do Việt Nam cấp không có giá trị sử dụng trong lãnh thổ Việt Nam."
+    },
+    {
+      "rank": 5,
+      "score": 0.8945,
+      "chunk_id": "c77d501e0d3debeae61c0a6c",
+      "document_id": "29/2015/TT-BGTVT",
+      "document_id_source": "header",
+      "title": "THÔNG TƯ — Quy định về cấp, sử dụng giấy phép lái xe quốc tế",
+      "article": "Điều 3. Giải thích từ ngữ",
+      "source_file": "VanBanGoc_29.2015.TT.BGTVT.pdf",
+      "content": "Điều 3. Giải thích từ ngữ\nTrong Thông tư này, các từ ngữ dưới đây được hiểu như sau:\n1. Giấy phép lái xe quốc tế là giấy phép lái xe do cơ quan nhà nước có thẩm\nquyền của các nước (bao gồm cả khu vực hành chính) tham gia Công ước Viên cấp\ntheo một mẫu thống nhất.\n\n\fCÔNG BÁO/Số 859 + 860/Ngày 24-7-2015\n\n19\n\n2. Giấy phép lái xe quốc tế có tên tiếng Anh là International Driving Permit,\n\nsau đây gọi tắt là IDP.\n\n3. Giấy phép lái xe quốc gia là giấy phép lái xe do cơ quan có thẩm quyền của\n\ncác nước cấp, có giá trị trên lãnh thổ nước đó.\n\n4. Hồ sơ điện tử giấy phép lái xe quốc tế là tập hợp các tài liệu điện tử liên\n\nquan đến cấp IDP."
+    },
+    {
+      "rank": 6,
+      "score": 0.8941,
+      "chunk_id": "9e78029342398f1fffb9f79d",
+      "document_id": "93/2016/TT-BQP",
+      "document_id_source": "header",
+      "title": "THÔNG TƯ — Quy định về đào tạo, sát hạch cấp giấy phép lái xe quân sự",
+      "article": "Điều 45. Cấp lại giấy phép lái xe",
+      "source_file": "93.2016.TT.BQP.docx",
+      "content": "Điều 45. Cấp lại giấy phép lái xe\n1. Điều kiện cấp lại giấy phép lái xe\nTrường hợp bị mất giấy phép lái xe dưới 03 tháng, nếu giấy phép lái xe còn hạn sử dụng, có đủ hồ sơ theo quy định, không bị cơ quan có thẩm quyền thu giữ thì được xét cấp lại giấy phép lái xe.\n2. Hồ sơ, gồm:\na) Văn bản đề nghị cấp lại giấy phép lái xe (có danh sách kèm theo) của cơ quan xe - máy;\nb) Đơn đề nghị cấp lại giấy phép lái xe của cá nhân (theo Mẫu số 07);\nc) Giấy chứng nhận đủ điều kiện sức khỏe theo quy định do cấp có thẩm quyền cấp, xác nhận (theo Mẫu số 02);\nd) Bản sao giấy phép lái xe (nếu có);\nđ) Bản tường trình của cá nhân có xác nhận (ký tên, đóng dấu) của công an, chính quyền địa phương hoặc cơ quan, đơn vị nơi cá nhân bị mất giấy phép lái xe và Cục Xe - Máy xác nhận không bị thu giữ;\ne) Mỗi cá nhân nộp 02 ảnh màu cỡ 2 x 3 cm quy định tại Điểm b, Khoản 1, Điều 14 Thông tư này.\n3. Trình tự thực hiện\nNgười bị mất giấy phép lái xe quân sự có đủ điều kiện quy định tai Khoản 1 Điều này phải nộp hồ sơ theo quy định tại Điểm b, c, d, đ, e, Khoản 2 Điều này cho cơ quan xe - máy cấp mình. Cơ quan xe - máy đơn vị theo phân cấp kiểm tra hồ sơ, tổng hợp lập danh sách và có văn bản (kèm theo hồ sơ) gửi cơ quan xe - máy đầu mối trực thuộc Bộ Quốc phòng tổng hợp báo cáo Cục Xe - Máy xem xét, thẩm định, cấp lại giấy phép lái xe theo quy định. Trường hợp không đủ điều kiện cấp lại giấy phép lái xe, Cục Xe - Máy thông báo bằng văn bản và nêu rõ lý do. Thời gian cấp lại giấy phép lái xe chậm nhất sau 10 ngày làm việc, kể từ ngày Cục Xe - Máy nhận đủ hồ sơ hợp lệ theo quy định."
+    }
+  ],
+  "trace_id": "01a0808d-4680-73d1-b7f1-7905fe9db435",
+  "disclaimer": "Thông tin dùng để tra cứu; cần đối chiếu văn bản gốc và tình trạng hiệu lực."
+}

@@ -1,0 +1,242 @@
+[
+  {
+    "epoch": 0,
+    "case_id": "pilot-01-missing",
+    "loss": 1.8690807819366455
+  },
+  {
+    "epoch": 0,
+    "case_id": "pilot-01-variant",
+    "loss": 1.291736125946045
+  },
+  {
+    "epoch": 0,
+    "case_id": "pilot-05",
+    "loss": 3.993955612182617
+  },
+  {
+    "epoch": 0,
+    "case_id": "pilot-00-missing",
+    "loss": 1.7959905862808228
+  },
+  {
+    "epoch": 0,
+    "case_id": "pilot-00-missing-variant",
+    "loss": 1.2356780767440796
+  },
+  {
+    "epoch": 0,
+    "case_id": "pilot-02-variant",
+    "loss": 1.9489809274673462
+  },
+  {
+    "epoch": 0,
+    "case_id": "pilot-04-variant",
+    "loss": 2.3327600955963135
+  },
+  {
+    "epoch": 0,
+    "case_id": "pilot-00-variant",
+    "loss": 3.6760029792785645
+  },
+  {
+    "epoch": 0,
+    "case_id": "pilot-01",
+    "loss": 0.5564567446708679
+  },
+  {
+    "epoch": 0,
+    "case_id": "pilot-02",
+    "loss": 1.6328059434890747
+  },
+  {
+    "epoch": 0,
+    "case_id": "pilot-05-variant",
+    "loss": 3.686067819595337
+  },
+  {
+    "epoch": 0,
+    "case_id": "pilot-01-missing-variant",
+    "loss": 1.0683424472808838
+  },
+  {
+    "epoch": 0,
+    "case_id": "pilot-04",
+    "loss": 2.1598947048187256
+  },
+  {
+    "epoch": 0,
+    "case_id": "pilot-03-variant",
+    "loss": 2.7130072116851807
+  },
+  {
+    "epoch": 0,
+    "case_id": "pilot-00",
+    "loss": 3.301891326904297
+  },
+  {
+    "epoch": 0,
+    "case_id": "pilot-03",
+    "loss": 2.759920120239258
+  },
+  {
+    "epoch": 1,
+    "case_id": "pilot-02-variant",
+    "loss": 1.7025666236877441
+  },
+  {
+    "epoch": 1,
+    "case_id": "pilot-01-variant",
+    "loss": 1.0425788164138794
+  },
+  {
+    "epoch": 1,
+    "case_id": "pilot-03-variant",
+    "loss": 2.600044012069702
+  },
+  {
+    "epoch": 1,
+    "case_id": "pilot-04",
+    "loss": 2.099151849746704
+  },
+  {
+    "epoch": 1,
+    "case_id": "pilot-05",
+    "loss": 3.1934821605682373
+  },
+  {
+    "epoch": 1,
+    "case_id": "pilot-00-missing-variant",
+    "loss": 0.9217607378959656
+  },
+  {
+    "epoch": 1,
+    "case_id": "pilot-03",
+    "loss": 2.5389246940612793
+  },
+  {
+    "epoch": 1,
+    "case_id": "pilot-05-variant",
+    "loss": 3.2517035007476807
+  },
+  {
+    "epoch": 1,
+    "case_id": "pilot-04-variant",
+    "loss": 1.9964629411697388
+  },
+  {
+    "epoch": 1,
+    "case_id": "pilot-01-missing-variant",
+    "loss": 0.8634807467460632
+  },
+  {
+    "epoch": 1,
+    "case_id": "pilot-00-missing",
+    "loss": 0.9723737835884094
+  },
+  {
+    "epoch": 1,
+    "case_id": "pilot-00",
+    "loss": 2.853666305541992
+  },
+  {
+    "epoch": 1,
+    "case_id": "pilot-01-missing",
+    "loss": 0.9695098996162415
+  },
+  {
+    "epoch": 1,
+    "case_id": "pilot-02",
+    "loss": 1.3943867683410645
+  },
+  {
+    "epoch": 1,
+    "case_id": "pilot-01",
+    "loss": 0.45575425028800964
+  },
+  {
+    "epoch": 1,
+    "case_id": "pilot-00-variant",
+    "loss": 2.80263614654541
+  },
+  {
+    "epoch": 2,
+    "case_id": "pilot-01-missing",
+    "loss": 0.9040270447731018
+  },
+  {
+    "epoch": 2,
+    "case_id": "pilot-05-variant",
+    "loss": 2.7624661922454834
+  },
+  {
+    "epoch": 2,
+    "case_id": "pilot-02-variant",
+    "loss": 1.4083188772201538
+  },
+  {
+    "epoch": 2,
+    "case_id": "pilot-00",
+    "loss": 2.487116575241089
+  },
+  {
+    "epoch": 2,
+    "case_id": "pilot-01",
+    "loss": 0.41228872537612915
+  },
+  {
+    "epoch": 2,
+    "case_id": "pilot-04-variant",
+    "loss": 1.7630939483642578
+  },
+  {
+    "epoch": 2,
+    "case_id": "pilot-02",
+    "loss": 1.2797139883041382
+  },
+  {
+    "epoch": 2,
+    "case_id": "pilot-01-missing-variant",
+    "loss": 0.764904260635376
+  },
+  {
+    "epoch": 2,
+    "case_id": "pilot-03",
+    "loss": 1.9392240047454834
+  },
+  {
+    "epoch": 2,
+    "case_id": "pilot-00-variant",
+    "loss": 2.2986767292022705
+  },
+  {
+    "epoch": 2,
+    "case_id": "pilot-01-variant",
+    "loss": 0.5311591029167175
+  },
+  {
+    "epoch": 2,
+    "case_id": "pilot-00-missing-variant",
+    "loss": 0.716989278793335
+  },
+  {
+    "epoch": 2,
+    "case_id": "pilot-04",
+    "loss": 1.651890516281128
+  },
+  {
+    "epoch": 2,
+    "case_id": "pilot-03-variant",
+    "loss": 1.7940922975540161
+  },
+  {
+    "epoch": 2,
+    "case_id": "pilot-05",
+    "loss": 2.421300172805786
+  },
+  {
+    "epoch": 2,
+    "case_id": "pilot-00-missing",
+    "loss": 0.6925501823425293
+  }
+]

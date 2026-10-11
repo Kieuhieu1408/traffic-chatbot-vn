@@ -1,0 +1,16 @@
+{
+  "scope": "New assistant-authored queries, real RAG outputs, AI-vs-AI comparison, narrow corpus coverage",
+  "cases": 10,
+  "agreement": 1.0,
+  "disagreements": [],
+  "rubric_hash": "c376a21dafa9760a8e8f7b7d6543413340b8284cfe26132a3464a341572f5abf",
+  "prompt_hash": "22f266695c246213e7c552adf044ae1b289cc6bc7e902b5bf66e08b3da544f65",
+  "judge_code_sha256": "b4cede11c8830f2329a102310875b5b0d76291c32462e104ef1876fac78e8150",
+  "judge_usage": {
+    "prompt_tokens": 61464,
+    "completion_tokens": 7592,
+    "total_tokens": 69056
+  },
+  "generation_usage": "Not returned by search endpoint",
+  "assistant_review_before_judge": true
+}

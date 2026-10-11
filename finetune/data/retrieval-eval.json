@@ -1,0 +1,457 @@
+[
+  {
+    "case_id": "pilot-06",
+    "topic": "29/2015/TT-BGTVT",
+    "capability": "direct",
+    "known_evidence_hit_at_k": {
+      "1": true,
+      "3": true,
+      "6": true,
+      "10": true
+    },
+    "known_evidence_reciprocal_rank": 1.0,
+    "qrels": [
+      {
+        "chunk_id": "86bd46debdd0fbd7b9b12df1",
+        "rank": 1,
+        "contains_known_evidence": true
+      },
+      {
+        "chunk_id": "e85b959216ecec3d583def89",
+        "rank": 2,
+        "contains_known_evidence": true
+      },
+      {
+        "chunk_id": "5fbb35d5502753056dfc292f",
+        "rank": 3,
+        "contains_known_evidence": false
+      },
+      {
+        "chunk_id": "f68614b9b6ddd8fa975e30e2",
+        "rank": 4,
+        "contains_known_evidence": false
+      },
+      {
+        "chunk_id": "4bbe47e0398013c1e09495ad",
+        "rank": 5,
+        "contains_known_evidence": false
+      },
+      {
+        "chunk_id": "1c4fda138a66b3c64f250221",
+        "rank": 6,
+        "contains_known_evidence": false
+      },
+      {
+        "chunk_id": "6bf208f1914853db6f23b48b",
+        "rank": 7,
+        "contains_known_evidence": false
+      },
+      {
+        "chunk_id": "eb67accf99d67f008179560d",
+        "rank": 8,
+        "contains_known_evidence": false
+      },
+      {
+        "chunk_id": "8692f4b72fccc0a008e6bbde",
+        "rank": 9,
+        "contains_known_evidence": false
+      },
+      {
+        "chunk_id": "16be10dbd38a11c828abc828",
+        "rank": 10,
+        "contains_known_evidence": false
+      }
+    ],
+    "limitation": "Span matching checks known evidence only. Unmatched sources are unjudged, not irrelevant; Precision@K withheld."
+  },
+  {
+    "case_id": "pilot-07",
+    "topic": "29/2015/TT-BGTVT",
+    "capability": "direct",
+    "known_evidence_hit_at_k": {
+      "1": true,
+      "3": true,
+      "6": true,
+      "10": true
+    },
+    "known_evidence_reciprocal_rank": 1.0,
+    "qrels": [
+      {
+        "chunk_id": "86bd46debdd0fbd7b9b12df1",
+        "rank": 1,
+        "contains_known_evidence": true
+      },
+      {
+        "chunk_id": "e85b959216ecec3d583def89",
+        "rank": 2,
+        "contains_known_evidence": true
+      },
+      {
+        "chunk_id": "f68614b9b6ddd8fa975e30e2",
+        "rank": 3,
+        "contains_known_evidence": false
+      },
+      {
+        "chunk_id": "6bf208f1914853db6f23b48b",
+        "rank": 4,
+        "contains_known_evidence": false
+      },
+      {
+        "chunk_id": "5fbb35d5502753056dfc292f",
+        "rank": 5,
+        "contains_known_evidence": false
+      },
+      {
+        "chunk_id": "a619cafb6419190e2764107b",
+        "rank": 6,
+        "contains_known_evidence": false
+      },
+      {
+        "chunk_id": "57e5a8f989b441faf1756baa",
+        "rank": 7,
+        "contains_known_evidence": false
+      },
+      {
+        "chunk_id": "e4cc5177cef207e66f4170fe",
+        "rank": 8,
+        "contains_known_evidence": false
+      },
+      {
+        "chunk_id": "62f082a0652be1974924e255",
+        "rank": 9,
+        "contains_known_evidence": false
+      },
+      {
+        "chunk_id": "1c4fda138a66b3c64f250221",
+        "rank": 10,
+        "contains_known_evidence": false
+      }
+    ],
+    "limitation": "Span matching checks known evidence only. Unmatched sources are unjudged, not irrelevant; Precision@K withheld."
+  },
+  {
+    "case_id": "pilot-08",
+    "topic": "29/2015/TT-BGTVT",
+    "capability": "direct",
+    "known_evidence_hit_at_k": {
+      "1": true,
+      "3": true,
+      "6": true,
+      "10": true
+    },
+    "known_evidence_reciprocal_rank": 1.0,
+    "qrels": [
+      {
+        "chunk_id": "eb67accf99d67f008179560d",
+        "rank": 1,
+        "contains_known_evidence": true
+      },
+      {
+        "chunk_id": "86bd46debdd0fbd7b9b12df1",
+        "rank": 2,
+        "contains_known_evidence": false
+      },
+      {
+        "chunk_id": "e85b959216ecec3d583def89",
+        "rank": 3,
+        "contains_known_evidence": false
+      },
+      {
+        "chunk_id": "5fbb35d5502753056dfc292f",
+        "rank": 4,
+        "contains_known_evidence": false
+      },
+      {
+        "chunk_id": "23ccd2cc53b64be089cf8a05",
+        "rank": 5,
+        "contains_known_evidence": false
+      },
+      {
+        "chunk_id": "f68614b9b6ddd8fa975e30e2",
+        "rank": 6,
+        "contains_known_evidence": false
+      },
+      {
+        "chunk_id": "4d036a55ce4e422b098462c3",
+        "rank": 7,
+        "contains_known_evidence": false
+      },
+      {
+        "chunk_id": "16be10dbd38a11c828abc828",
+        "rank": 8,
+        "contains_known_evidence": false
+      },
+      {
+        "chunk_id": "e4cc5177cef207e66f4170fe",
+        "rank": 9,
+        "contains_known_evidence": false
+      },
+      {
+        "chunk_id": "1c4fda138a66b3c64f250221",
+        "rank": 10,
+        "contains_known_evidence": false
+      }
+    ],
+    "limitation": "Span matching checks known evidence only. Unmatched sources are unjudged, not irrelevant; Precision@K withheld."
+  },
+  {
+    "case_id": "pilot-09",
+    "topic": "31/2019/TT-BGTVT",
+    "capability": "table",
+    "known_evidence_hit_at_k": {
+      "1": true,
+      "3": true,
+      "6": true,
+      "10": true
+    },
+    "known_evidence_reciprocal_rank": 1.0,
+    "qrels": [
+      {
+        "chunk_id": "d9a189322b5af7963da4b1d0",
+        "rank": 1,
+        "contains_known_evidence": true
+      },
+      {
+        "chunk_id": "d9d6daa6be509a467a9b0eb6",
+        "rank": 2,
+        "contains_known_evidence": false
+      },
+      {
+        "chunk_id": "334379e5cd120ffa30542c7e",
+        "rank": 3,
+        "contains_known_evidence": false
+      },
+      {
+        "chunk_id": "d03547177f006e47605de04f",
+        "rank": 4,
+        "contains_known_evidence": false
+      },
+      {
+        "chunk_id": "59a888c2b052db02356d3871",
+        "rank": 5,
+        "contains_known_evidence": false
+      },
+      {
+        "chunk_id": "ebd35a8becc6c6a4fdb2fb51",
+        "rank": 6,
+        "contains_known_evidence": false
+      },
+      {
+        "chunk_id": "9bc4860d0a93319017c0e5c8",
+        "rank": 7,
+        "contains_known_evidence": false
+      },
+      {
+        "chunk_id": "b20aed6d510275c40e1900ce",
+        "rank": 8,
+        "contains_known_evidence": false
+      },
+      {
+        "chunk_id": "2fce683908b360b8b751ec88",
+        "rank": 9,
+        "contains_known_evidence": false
+      },
+      {
+        "chunk_id": "89f32d1a570c5a9ae1d28111",
+        "rank": 10,
+        "contains_known_evidence": false
+      }
+    ],
+    "limitation": "Span matching checks known evidence only. Unmatched sources are unjudged, not irrelevant; Precision@K withheld."
+  },
+  {
+    "case_id": "pilot-10",
+    "topic": "31/2019/TT-BGTVT",
+    "capability": "table",
+    "known_evidence_hit_at_k": {
+      "1": true,
+      "3": true,
+      "6": true,
+      "10": true
+    },
+    "known_evidence_reciprocal_rank": 1.0,
+    "qrels": [
+      {
+        "chunk_id": "d9a189322b5af7963da4b1d0",
+        "rank": 1,
+        "contains_known_evidence": true
+      },
+      {
+        "chunk_id": "84336c694afd32a40af66f2c",
+        "rank": 2,
+        "contains_known_evidence": false
+      },
+      {
+        "chunk_id": "cfad2c3dd824b3d2b95e88ca",
+        "rank": 3,
+        "contains_known_evidence": false
+      },
+      {
+        "chunk_id": "195b811af351d653787cc28b",
+        "rank": 4,
+        "contains_known_evidence": false
+      },
+      {
+        "chunk_id": "45153b58f662e9bd94ee0ee4",
+        "rank": 5,
+        "contains_known_evidence": false
+      },
+      {
+        "chunk_id": "ac12e4784b880d3aff2cd82a",
+        "rank": 6,
+        "contains_known_evidence": false
+      },
+      {
+        "chunk_id": "193e95423b1de67f1df44c0d",
+        "rank": 7,
+        "contains_known_evidence": false
+      },
+      {
+        "chunk_id": "5307ad2593b749118212f2aa",
+        "rank": 8,
+        "contains_known_evidence": false
+      },
+      {
+        "chunk_id": "d8c8adbb8f76c25c324079c9",
+        "rank": 9,
+        "contains_known_evidence": false
+      },
+      {
+        "chunk_id": "1e7a0f194e9eaba7e662c222",
+        "rank": 10,
+        "contains_known_evidence": false
+      }
+    ],
+    "limitation": "Span matching checks known evidence only. Unmatched sources are unjudged, not irrelevant; Precision@K withheld."
+  },
+  {
+    "case_id": "pilot-11",
+    "topic": "31/2019/TT-BGTVT",
+    "capability": "condition",
+    "known_evidence_hit_at_k": {
+      "1": false,
+      "3": false,
+      "6": false,
+      "10": false
+    },
+    "known_evidence_reciprocal_rank": 0,
+    "qrels": [
+      {
+        "chunk_id": "d33a7adc7fdaf2b430e53e35",
+        "rank": 1,
+        "contains_known_evidence": false
+      },
+      {
+        "chunk_id": "b62cdce58b647636cb088acf",
+        "rank": 2,
+        "contains_known_evidence": false
+      },
+      {
+        "chunk_id": "d6439cf90319c19b7df9c3e0",
+        "rank": 3,
+        "contains_known_evidence": false
+      },
+      {
+        "chunk_id": "726e722638f0e7cbfeb26494",
+        "rank": 4,
+        "contains_known_evidence": false
+      },
+      {
+        "chunk_id": "3e8eb3e661b1a89a9455db36",
+        "rank": 5,
+        "contains_known_evidence": false
+      },
+      {
+        "chunk_id": "745f72dcaca0d9b33542ed6b",
+        "rank": 6,
+        "contains_known_evidence": false
+      },
+      {
+        "chunk_id": "b9cc53f66d76f906f24e6b41",
+        "rank": 7,
+        "contains_known_evidence": false
+      },
+      {
+        "chunk_id": "f56f866b802efb3e604a2b5c",
+        "rank": 8,
+        "contains_known_evidence": false
+      },
+      {
+        "chunk_id": "39c4131da0c17e952399f652",
+        "rank": 9,
+        "contains_known_evidence": false
+      },
+      {
+        "chunk_id": "47b30334d4c6cee0326ea430",
+        "rank": 10,
+        "contains_known_evidence": false
+      }
+    ],
+    "limitation": "Span matching checks known evidence only. Unmatched sources are unjudged, not irrelevant; Precision@K withheld."
+  },
+  {
+    "case_id": "pilot-12",
+    "topic": "31/2019/TT-BGTVT",
+    "capability": "condition",
+    "known_evidence_hit_at_k": {
+      "1": true,
+      "3": true,
+      "6": true,
+      "10": true
+    },
+    "known_evidence_reciprocal_rank": 1.0,
+    "qrels": [
+      {
+        "chunk_id": "71daf3e77b45974a7828b0f4",
+        "rank": 1,
+        "contains_known_evidence": true
+      },
+      {
+        "chunk_id": "fc2702b8cb0516f7e619b2bb",
+        "rank": 2,
+        "contains_known_evidence": false
+      },
+      {
+        "chunk_id": "d8c8adbb8f76c25c324079c9",
+        "rank": 3,
+        "contains_known_evidence": false
+      },
+      {
+        "chunk_id": "d33a7adc7fdaf2b430e53e35",
+        "rank": 4,
+        "contains_known_evidence": false
+      },
+      {
+        "chunk_id": "726e722638f0e7cbfeb26494",
+        "rank": 5,
+        "contains_known_evidence": false
+      },
+      {
+        "chunk_id": "416a5f9765feb1814b233c4c",
+        "rank": 6,
+        "contains_known_evidence": false
+      },
+      {
+        "chunk_id": "947772cd7b1f215a11b01f98",
+        "rank": 7,
+        "contains_known_evidence": false
+      },
+      {
+        "chunk_id": "12aabe969c9208bb8bfb2c16",
+        "rank": 8,
+        "contains_known_evidence": false
+      },
+      {
+        "chunk_id": "15590bd34024e2b0ea709493",
+        "rank": 9,
+        "contains_known_evidence": false
+      },
+      {
+        "chunk_id": "9bc4860d0a93319017c0e5c8",
+        "rank": 10,
+        "contains_known_evidence": false
+      }
+    ],
+    "limitation": "Span matching checks known evidence only. Unmatched sources are unjudged, not irrelevant; Precision@K withheld."
+  }
+]

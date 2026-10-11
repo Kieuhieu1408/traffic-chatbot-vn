@@ -1,0 +1,9 @@
+{
+  "created_at": "2026-09-08T10:27:39.658054+00:00",
+  "trace_id": "01a0808d-5716-7992-b54b-2b71b0e785e3",
+  "input_hash": "bd0340bb318c36b53c37e863ac40e2dd696ac30903b18569e1f02663260a3ae0",
+  "rubric_hash": "c376a21dafa9760a8e8f7b7d6543413340b8284cfe26132a3464a341572f5abf",
+  "prompt_hash": "22f266695c246213e7c552adf044ae1b289cc6bc7e902b5bf66e08b3da544f65",
+  "judge_code_sha256": "b4cede11c8830f2329a102310875b5b0d76291c32462e104ef1876fac78e8150",
+  "scope": "One known assistant-labeled failure; diagnostic, not unbiased accuracy estimate"
+}

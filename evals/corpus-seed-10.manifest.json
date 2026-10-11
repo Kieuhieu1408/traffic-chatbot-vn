@@ -1,0 +1,13 @@
+{
+  "dataset": "corpus-seed-10",
+  "version": 1,
+  "created_at": "2026-09-07",
+  "case_count": 10,
+  "corpus_file": "data/index/chunks.jsonl",
+  "corpus_sha256": "c28010c3ffe31725a5ae25b4778f3d2b40349b045a58a337d3ac04e4f687ec38",
+  "corpus_chunk_count": 5126,
+  "review_status": "Assistant checked against indexed chunks and DOCX extraction; awaiting human review",
+  "evaluation_status": "Not run against retrieval or generation",
+  "scope": "Questions about named document versions in corpus; no current-law validation",
+  "gold_policy": "Evidence entries within a case are jointly required. Equivalent chunks from other source copies may be accepted after checking substantive support; gold IDs are not an exhaustive set of all relevant chunks."
+}

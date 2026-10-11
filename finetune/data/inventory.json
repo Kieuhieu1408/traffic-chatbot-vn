@@ -1,0 +1,14 @@
+{
+  "corpus-seed-10.jsonl": {
+    "records": 10,
+    "reuse": "Development/debugging only; previously exposed, do not present as independent expert test gold."
+  },
+  "fresh_runs/20260908-natural10/traces.jsonl": {
+    "records": 10,
+    "reuse": "Development/debugging only; previously exposed, do not present as independent expert test gold."
+  },
+  "judge_runs/20260908T093514688801Z/traces.jsonl": {
+    "records": 10,
+    "reuse": "Development/debugging only; previously exposed, do not present as independent expert test gold."
+  }
+}

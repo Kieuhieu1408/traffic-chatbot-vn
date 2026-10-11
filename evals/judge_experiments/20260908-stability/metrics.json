@@ -1,0 +1,92 @@
+{
+  "positive_class": "fail",
+  "reference": "assistant",
+  "per_repeat": [
+    {
+      "repeat": 1,
+      "tp": 4,
+      "fp": 0,
+      "fn": 0,
+      "tn": 4,
+      "abstain": 0,
+      "error": 0,
+      "missing": 0,
+      "precision": 1.0,
+      "recall_among_binary": 1.0,
+      "detected_fail_fraction": 1.0,
+      "coverage": 1.0
+    },
+    {
+      "repeat": 2,
+      "tp": 4,
+      "fp": 0,
+      "fn": 0,
+      "tn": 4,
+      "abstain": 0,
+      "error": 0,
+      "missing": 0,
+      "precision": 1.0,
+      "recall_among_binary": 1.0,
+      "detected_fail_fraction": 1.0,
+      "coverage": 1.0
+    },
+    {
+      "repeat": 3,
+      "tp": 4,
+      "fp": 0,
+      "fn": 0,
+      "tn": 4,
+      "abstain": 0,
+      "error": 0,
+      "missing": 0,
+      "precision": 1.0,
+      "recall_among_binary": 1.0,
+      "detected_fail_fraction": 1.0,
+      "coverage": 1.0
+    }
+  ],
+  "stable_binary_cases": 8,
+  "unique_cases": 8,
+  "labels_by_case": {
+    "stability-01": [
+      "pass",
+      "pass",
+      "pass"
+    ],
+    "stability-02": [
+      "fail",
+      "fail",
+      "fail"
+    ],
+    "stability-03": [
+      "pass",
+      "pass",
+      "pass"
+    ],
+    "stability-04": [
+      "fail",
+      "fail",
+      "fail"
+    ],
+    "stability-05": [
+      "pass",
+      "pass",
+      "pass"
+    ],
+    "stability-06": [
+      "fail",
+      "fail",
+      "fail"
+    ],
+    "stability-07": [
+      "pass",
+      "pass",
+      "pass"
+    ],
+    "stability-08": [
+      "fail",
+      "fail",
+      "fail"
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "status": "complete",
+  "model": "gpt-5.4-mini",
+  "repeats": 3,
+  "cases": 8,
+  "scope": "New synthetic assistant-authored answers from known corpus provision; not independent human gold or production distribution",
+  "cases_hash": "59e318582af4c42504821c332cb0d59963262bb8d75068c5f8e6ef2eb9018f1e",
+  "rubric_hash": "74df3f14f1c634ea22c4455ff35c01629e48d7f26c8d11f1e8c54bec6397f5a7",
+  "prompt_hash": "4d26223bec2fced13f486242ec18f9f4e3d027c01b5f1a9ff46423d0398772d6",
+  "calls": 24,
+  "usage": {
+    "prompt_tokens": 58779,
+    "completion_tokens": 5899,
+    "total_tokens": 64678
+  }
+}

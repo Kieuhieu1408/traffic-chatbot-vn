@@ -1,0 +1,182 @@
+[
+  {
+    "stage": "baseline",
+    "slice_type": "split",
+    "slice": "dev",
+    "pass_count": 5,
+    "fail_count": 0,
+    "abstain": 0,
+    "error": 0,
+    "total": 5
+  },
+  {
+    "stage": "baseline",
+    "slice_type": "capability",
+    "slice": "direct",
+    "pass_count": 4,
+    "fail_count": 2,
+    "abstain": 0,
+    "error": 0,
+    "total": 6
+  },
+  {
+    "stage": "baseline",
+    "slice_type": "topic",
+    "slice": "29/2015/TT-BGTVT",
+    "pass_count": 6,
+    "fail_count": 2,
+    "abstain": 0,
+    "error": 0,
+    "total": 8
+  },
+  {
+    "stage": "baseline",
+    "slice_type": "capability",
+    "slice": "missing_evidence",
+    "pass_count": 4,
+    "fail_count": 0,
+    "abstain": 0,
+    "error": 0,
+    "total": 4
+  },
+  {
+    "stage": "baseline",
+    "slice_type": "split",
+    "slice": "test",
+    "pass_count": 4,
+    "fail_count": 2,
+    "abstain": 0,
+    "error": 0,
+    "total": 6
+  },
+  {
+    "stage": "baseline",
+    "slice_type": "capability",
+    "slice": "table",
+    "pass_count": 2,
+    "fail_count": 2,
+    "abstain": 0,
+    "error": 0,
+    "total": 4
+  },
+  {
+    "stage": "baseline",
+    "slice_type": "topic",
+    "slice": "31/2019/TT-BGTVT",
+    "pass_count": 6,
+    "fail_count": 4,
+    "abstain": 0,
+    "error": 0,
+    "total": 10
+  },
+  {
+    "stage": "baseline",
+    "slice_type": "capability",
+    "slice": "condition",
+    "pass_count": 2,
+    "fail_count": 2,
+    "abstain": 0,
+    "error": 0,
+    "total": 4
+  },
+  {
+    "stage": "baseline",
+    "slice_type": "split",
+    "slice": "end-to-end",
+    "pass_count": 3,
+    "fail_count": 4,
+    "abstain": 0,
+    "error": 0,
+    "total": 7
+  },
+  {
+    "stage": "after",
+    "slice_type": "split",
+    "slice": "dev",
+    "pass_count": 4,
+    "fail_count": 1,
+    "abstain": 0,
+    "error": 0,
+    "total": 5
+  },
+  {
+    "stage": "after",
+    "slice_type": "capability",
+    "slice": "direct",
+    "pass_count": 4,
+    "fail_count": 2,
+    "abstain": 0,
+    "error": 0,
+    "total": 6
+  },
+  {
+    "stage": "after",
+    "slice_type": "topic",
+    "slice": "29/2015/TT-BGTVT",
+    "pass_count": 5,
+    "fail_count": 3,
+    "abstain": 0,
+    "error": 0,
+    "total": 8
+  },
+  {
+    "stage": "after",
+    "slice_type": "capability",
+    "slice": "missing_evidence",
+    "pass_count": 3,
+    "fail_count": 1,
+    "abstain": 0,
+    "error": 0,
+    "total": 4
+  },
+  {
+    "stage": "after",
+    "slice_type": "split",
+    "slice": "test",
+    "pass_count": 5,
+    "fail_count": 1,
+    "abstain": 0,
+    "error": 0,
+    "total": 6
+  },
+  {
+    "stage": "after",
+    "slice_type": "capability",
+    "slice": "table",
+    "pass_count": 2,
+    "fail_count": 2,
+    "abstain": 0,
+    "error": 0,
+    "total": 4
+  },
+  {
+    "stage": "after",
+    "slice_type": "topic",
+    "slice": "31/2019/TT-BGTVT",
+    "pass_count": 7,
+    "fail_count": 3,
+    "abstain": 0,
+    "error": 0,
+    "total": 10
+  },
+  {
+    "stage": "after",
+    "slice_type": "capability",
+    "slice": "condition",
+    "pass_count": 3,
+    "fail_count": 1,
+    "abstain": 0,
+    "error": 0,
+    "total": 4
+  },
+  {
+    "stage": "after",
+    "slice_type": "split",
+    "slice": "end-to-end",
+    "pass_count": 3,
+    "fail_count": 4,
+    "abstain": 0,
+    "error": 0,
+    "total": 7
+  }
+]

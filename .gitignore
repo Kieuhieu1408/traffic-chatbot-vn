@@ -1,0 +1,98 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+.ruff_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# VSCode
+.vscode/
+
+# PyCharm
+.idea/
+
+# Local configuration and recovered/source data.  The recovered archives include
+# a historical API key, and the legal corpus may have separate redistribution
+# terms, so none of these files should be pushed to a public repository.
+.env
+*.zip
+data/archives/
+data/raw/
+data/corpus/
+data/legacy/
+
+# Reproducible generated artifacts. Build them with `python embeddings.py`.
+data/index/
+
+# Backward-compatible locations used by the original prototype.
+Thongtu/
+faiss_index.bin
+metadata.json
+segment_ids.json
+
+# Log files
+*.log
+
+# Human review labels remain local; export deliberately when needed.
+evals/labels/
+
+# Local A/B participant feedback
+data/ab/
+
+# Local fine-tuning environment and adapter weights
+.venv-ft/
+finetune/runs/*/adapter/
+
+.DS_Store

@@ -1,0 +1,72 @@
+[
+  {
+    "case_id": "corpus_seed_001",
+    "evidence_sufficient_for_expected_answer": true,
+    "reviewer": "assistant",
+    "human_review_pending": true,
+    "note": "Top 1 là chunk chồng lấn efec83cbecf7f82735737fe5: có mệnh đề vạch sơn không phải đường đôi và tiêu chí dải phân cách. Đầu câu bị cắt; đủ ý cho câu hỏi cụ thể nhưng chất lượng chunk cần cải thiện."
+  },
+  {
+    "case_id": "corpus_seed_002",
+    "evidence_sufficient_for_expected_answer": true,
+    "reviewer": "assistant",
+    "human_review_pending": true,
+    "note": "Tìm đủ gold đã đối chiếu từ corpus."
+  },
+  {
+    "case_id": "corpus_seed_003",
+    "evidence_sufficient_for_expected_answer": true,
+    "reviewer": "assistant",
+    "human_review_pending": true,
+    "note": "Tìm đủ gold đã đối chiếu từ corpus. Nguồn đúng ở hạng 4; evidence_only_answer chỉ trích 3 kết quả đầu nên phần answer fallback có thể không hiển thị căn cứ này, dù results có chứa."
+  },
+  {
+    "case_id": "corpus_seed_004",
+    "evidence_sufficient_for_expected_answer": true,
+    "reviewer": "assistant",
+    "human_review_pending": true,
+    "note": "Tìm đủ gold đã đối chiếu từ corpus."
+  },
+  {
+    "case_id": "corpus_seed_005",
+    "evidence_sufficient_for_expected_answer": true,
+    "reviewer": "assistant",
+    "human_review_pending": true,
+    "note": "Tìm đủ gold đã đối chiếu từ corpus."
+  },
+  {
+    "case_id": "corpus_seed_006",
+    "evidence_sufficient_for_expected_answer": true,
+    "reviewer": "assistant",
+    "human_review_pending": true,
+    "note": "Tìm đủ gold đã đối chiếu từ corpus."
+  },
+  {
+    "case_id": "corpus_seed_007",
+    "evidence_sufficient_for_expected_answer": true,
+    "reviewer": "assistant",
+    "human_review_pending": true,
+    "note": "Tìm đủ gold đã đối chiếu từ corpus."
+  },
+  {
+    "case_id": "corpus_seed_008",
+    "evidence_sufficient_for_expected_answer": false,
+    "reviewer": "assistant",
+    "human_review_pending": true,
+    "note": "Không có Điều 6 về đối tượng được cấp IDP trong top 6. Các đoạn về sử dụng/thủ tục không đủ thay thế điều kiện PET và đối tượng cấp."
+  },
+  {
+    "case_id": "corpus_seed_009",
+    "evidence_sufficient_for_expected_answer": true,
+    "reviewer": "assistant",
+    "human_review_pending": true,
+    "note": "Top 1 là bản PDF a619cafb6419190e2764107b của Điều 10; nội dung hỗ trợ đầy đủ như bản DOCX đã gán nhãn."
+  },
+  {
+    "case_id": "corpus_seed_010",
+    "evidence_sufficient_for_expected_answer": true,
+    "reviewer": "assistant",
+    "human_review_pending": true,
+    "note": "Top 1 chứa Điều 10 bản PDF tương đương; top 2 chứa Điều 11. Đủ hai căn cứ."
+  }
+]

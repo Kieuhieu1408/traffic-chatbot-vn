@@ -1,0 +1,82 @@
+[
+  {
+    "case_id": "corpus_seed_001",
+    "core_answer_verdict": "pass",
+    "citation_targets_exist": true,
+    "reviewer": "assistant",
+    "human_review_pending": true,
+    "notes": "Các ý chính phù hợp đáp án kỳ vọng. Không đánh đồng kết quả này với kiểm chứng mọi nhận xét phụ. Model mô tả giới hạn toàn văn bằng từ corpus thay vì chỉ rõ context được cung cấp; cần diễn đạt chính xác hơn."
+  },
+  {
+    "case_id": "corpus_seed_002",
+    "core_answer_verdict": "pass",
+    "citation_targets_exist": true,
+    "reviewer": "assistant",
+    "human_review_pending": true,
+    "notes": "Các ý chính phù hợp đáp án kỳ vọng. Không đánh đồng kết quả này với kiểm chứng mọi nhận xét phụ."
+  },
+  {
+    "case_id": "corpus_seed_003",
+    "core_answer_verdict": "pass",
+    "citation_targets_exist": true,
+    "reviewer": "assistant",
+    "human_review_pending": true,
+    "notes": "Các ý chính phù hợp đáp án kỳ vọng. Không đánh đồng kết quả này với kiểm chứng mọi nhận xét phụ."
+  },
+  {
+    "case_id": "corpus_seed_004",
+    "core_answer_verdict": "pass",
+    "citation_targets_exist": true,
+    "reviewer": "assistant",
+    "human_review_pending": true,
+    "notes": "Các ý chính phù hợp đáp án kỳ vọng. Không đánh đồng kết quả này với kiểm chứng mọi nhận xét phụ."
+  },
+  {
+    "case_id": "corpus_seed_005",
+    "core_answer_verdict": "pass",
+    "citation_targets_exist": true,
+    "reviewer": "assistant",
+    "human_review_pending": true,
+    "notes": "Các ý chính phù hợp đáp án kỳ vọng. Không đánh đồng kết quả này với kiểm chứng mọi nhận xét phụ."
+  },
+  {
+    "case_id": "corpus_seed_006",
+    "core_answer_verdict": "pass",
+    "citation_targets_exist": true,
+    "reviewer": "assistant",
+    "human_review_pending": true,
+    "notes": "Các ý chính phù hợp đáp án kỳ vọng. Không đánh đồng kết quả này với kiểm chứng mọi nhận xét phụ."
+  },
+  {
+    "case_id": "corpus_seed_007",
+    "core_answer_verdict": "pass",
+    "citation_targets_exist": true,
+    "reviewer": "assistant",
+    "human_review_pending": true,
+    "notes": "Các ý chính phù hợp đáp án kỳ vọng. Không đánh đồng kết quả này với kiểm chứng mọi nhận xét phụ."
+  },
+  {
+    "case_id": "corpus_seed_008",
+    "core_answer_verdict": "fail",
+    "citation_targets_exist": true,
+    "reviewer": "assistant",
+    "human_review_pending": true,
+    "notes": "Trượt: trả lời bằng Điều 8 thay Điều 6; không nêu đủ điều kiện PET/đối tượng; khẳng định sai phạm vi quan sát rằng corpus không có Điều 6."
+  },
+  {
+    "case_id": "corpus_seed_009",
+    "core_answer_verdict": "pass",
+    "citation_targets_exist": true,
+    "reviewer": "assistant",
+    "human_review_pending": true,
+    "notes": "Các ý chính phù hợp đáp án kỳ vọng. Không đánh đồng kết quả này với kiểm chứng mọi nhận xét phụ."
+  },
+  {
+    "case_id": "corpus_seed_010",
+    "core_answer_verdict": "pass",
+    "citation_targets_exist": true,
+    "reviewer": "assistant",
+    "human_review_pending": true,
+    "notes": "Các ý chính phù hợp đáp án kỳ vọng. Không đánh đồng kết quả này với kiểm chứng mọi nhận xét phụ."
+  }
+]

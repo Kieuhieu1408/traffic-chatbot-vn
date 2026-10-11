@@ -1,0 +1,102 @@
+[
+  {
+    "id": "idp-without-only",
+    "expected": "pass",
+    "query": "Tôi dùng IDP Việt Nam ở nước tham gia Công ước Viên thì cần mang gì?",
+    "answer": "IDP do Việt Nam cấp được sử dụng tại các nước tham gia Công ước Viên; người lái phải mang cả IDP và GPLX quốc gia. [2]",
+    "results": [
+      {
+        "rank": 2,
+        "score": 0.9053,
+        "chunk_id": "e4cc5177cef207e66f4170fe",
+        "document_id": "29/2015/TT-BGTVT",
+        "document_id_source": "header",
+        "title": "THÔNG TƯ — Quy định về cấp, sử dụng giấy phép lái xe quốc tế",
+        "article": "Điều 10. Sử dụng giấy phép lái xe quốc tế do Việt Nam cấp",
+        "source_file": "29.2015.TT.BGTVT.docx",
+        "content": "Điều 10. Sử dụng giấy phép lái xe quốc tế do Việt Nam cấp\n1. Người có IDP do Việt Nam cấp khi điều khiển phương tiện cơ giới tham gia giao thông trên lãnh thổ nước tham gia Công ước Viên phải mang theo IDP và giấy phép lái xe quốc gia; tuân thủ pháp luật giao thông đường bộ của nước sở tại.\n2. IDP do Việt Nam cấp không có giá trị sử dụng trong lãnh thổ Việt Nam."
+      }
+    ]
+  },
+  {
+    "id": "idp-with-only",
+    "expected": "fail",
+    "query": "Tôi dùng IDP Việt Nam ở nước tham gia Công ước Viên thì cần mang gì?",
+    "answer": "IDP do Việt Nam cấp chỉ được sử dụng tại các nước tham gia Công ước Viên; người lái phải mang cả IDP và GPLX quốc gia. [2]",
+    "results": [
+      {
+        "rank": 2,
+        "score": 0.9053,
+        "chunk_id": "e4cc5177cef207e66f4170fe",
+        "document_id": "29/2015/TT-BGTVT",
+        "document_id_source": "header",
+        "title": "THÔNG TƯ — Quy định về cấp, sử dụng giấy phép lái xe quốc tế",
+        "article": "Điều 10. Sử dụng giấy phép lái xe quốc tế do Việt Nam cấp",
+        "source_file": "29.2015.TT.BGTVT.docx",
+        "content": "Điều 10. Sử dụng giấy phép lái xe quốc tế do Việt Nam cấp\n1. Người có IDP do Việt Nam cấp khi điều khiển phương tiện cơ giới tham gia giao thông trên lãnh thổ nước tham gia Công ước Viên phải mang theo IDP và giấy phép lái xe quốc gia; tuân thủ pháp luật giao thông đường bộ của nước sở tại.\n2. IDP do Việt Nam cấp không có giá trị sử dụng trong lãnh thổ Việt Nam."
+      }
+    ]
+  },
+  {
+    "id": "idp-exclusion-paraphrase",
+    "expected": "fail",
+    "query": "Dùng IDP Việt Nam ở nước không tham gia Công ước Viên được không?",
+    "answer": "Mọi nước ngoài nhóm tham gia Công ước Viên đều không chấp nhận IDP Việt Nam. [2]",
+    "results": [
+      {
+        "rank": 2,
+        "score": 0.9053,
+        "chunk_id": "e4cc5177cef207e66f4170fe",
+        "document_id": "29/2015/TT-BGTVT",
+        "document_id_source": "header",
+        "title": "THÔNG TƯ — Quy định về cấp, sử dụng giấy phép lái xe quốc tế",
+        "article": "Điều 10. Sử dụng giấy phép lái xe quốc tế do Việt Nam cấp",
+        "source_file": "29.2015.TT.BGTVT.docx",
+        "content": "Điều 10. Sử dụng giấy phép lái xe quốc tế do Việt Nam cấp\n1. Người có IDP do Việt Nam cấp khi điều khiển phương tiện cơ giới tham gia giao thông trên lãnh thổ nước tham gia Công ước Viên phải mang theo IDP và giấy phép lái xe quốc gia; tuân thủ pháp luật giao thông đường bộ của nước sở tại.\n2. IDP do Việt Nam cấp không có giá trị sử dụng trong lãnh thổ Việt Nam."
+      }
+    ]
+  },
+  {
+    "id": "idp-scoped-uncertainty",
+    "expected": "pass",
+    "query": "Dùng IDP Việt Nam ở nước không tham gia Công ước Viên được không?",
+    "answer": "Nguồn [2] quy định việc dùng IDP tại nước tham gia Công ước Viên, chưa đủ để kết luận cho các nước khác.",
+    "results": [
+      {
+        "rank": 2,
+        "score": 0.9053,
+        "chunk_id": "e4cc5177cef207e66f4170fe",
+        "document_id": "29/2015/TT-BGTVT",
+        "document_id_source": "header",
+        "title": "THÔNG TƯ — Quy định về cấp, sử dụng giấy phép lái xe quốc tế",
+        "article": "Điều 10. Sử dụng giấy phép lái xe quốc tế do Việt Nam cấp",
+        "source_file": "29.2015.TT.BGTVT.docx",
+        "content": "Điều 10. Sử dụng giấy phép lái xe quốc tế do Việt Nam cấp\n1. Người có IDP do Việt Nam cấp khi điều khiển phương tiện cơ giới tham gia giao thông trên lãnh thổ nước tham gia Công ước Viên phải mang theo IDP và giấy phép lái xe quốc gia; tuân thủ pháp luật giao thông đường bộ của nước sở tại.\n2. IDP do Việt Nam cấp không có giá trị sử dụng trong lãnh thổ Việt Nam."
+      }
+    ]
+  },
+  {
+    "id": "only-supported",
+    "expected": "pass",
+    "query": "IDP được cấp tối đa mấy năm?",
+    "answer": "IDP chỉ có thời hạn tối đa 3 năm, còn bị ràng buộc bởi thời hạn còn hiệu lực của GPLX quốc gia. [1]",
+    "results": [
+      {
+        "rank": 1,
+        "content": "IDP có thời hạn không quá 03 năm, kể từ ngày cấp và phải phù hợp với thời hạn còn hiệu lực của giấy phép lái xe quốc gia."
+      }
+    ]
+  },
+  {
+    "id": "no-only-unsupported",
+    "expected": "fail",
+    "query": "IDP được cấp tối đa mấy năm?",
+    "answer": "IDP luôn được cấp đủ 3 năm, bất kể thời hạn của GPLX quốc gia. [1]",
+    "results": [
+      {
+        "rank": 1,
+        "content": "IDP có thời hạn không quá 03 năm, kể từ ngày cấp và phải phù hợp với thời hạn còn hiệu lực của giấy phép lái xe quốc gia."
+      }
+    ]
+  }
+]

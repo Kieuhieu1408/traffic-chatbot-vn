@@ -1,0 +1,6 @@
+{"stage": "baseline", "split": "test", "case_id": "pilot-09", "reviewer": "assistant", "verdict": "fail", "review_reason": "Câu hỏi V=100; bảng cho 70 m. Câu trả lời không đưa đúng giá trị này."}
+{"stage": "baseline", "split": "test", "case_id": "pilot-12", "reviewer": "assistant", "verdict": "fail", "review_reason": "Nguồn yêu cầu giảm tốc qua khu vực trường học; đối chiếu kết luận phủ định/khẳng định."}
+{"stage": "baseline", "split": "dev", "case_id": "pilot-07-missing", "reviewer": "assistant", "verdict": "pass", "review_reason": "Không có nguồn: trước từ chối phù hợp; sau tự đưa câu trả lời và citation [1] không tồn tại."}
+{"stage": "after", "split": "test", "case_id": "pilot-09", "reviewer": "assistant", "verdict": "fail", "review_reason": "Câu hỏi V=100; bảng cho 70 m. Câu trả lời không đưa đúng giá trị này."}
+{"stage": "after", "split": "test", "case_id": "pilot-12", "reviewer": "assistant", "verdict": "pass", "review_reason": "Nguồn yêu cầu giảm tốc qua khu vực trường học; đối chiếu kết luận phủ định/khẳng định."}
+{"stage": "after", "split": "dev", "case_id": "pilot-07-missing", "reviewer": "assistant", "verdict": "fail", "review_reason": "Không có nguồn: trước từ chối phù hợp; sau tự đưa câu trả lời và citation [1] không tồn tại."}

@@ -1,0 +1,114 @@
+[
+  {
+    "case_id": "stability-01",
+    "query": "Nộp đơn xin IDP thì bao lâu được giải quyết?",
+    "answer": "Theo nguồn [1], thời hạn không quá 5 ngày làm việc kể từ ngày nhận đơn; nếu không cấp phải trả lời và nêu lý do.",
+    "history": [],
+    "results": [
+      {
+        "rank": 1,
+        "content": "Điều 8. Thủ tục cấp giấy phép lái xe quốc tế\nTrong thời hạn không quá 05 ngày làm việc, kể từ ngày nhận được đơn đề nghị cấp IDP, cơ quan cấp thực hiện việc cấp IDP; trường hợp không cấp IDP thì phải trả lời và nêu rõ lý do. Trường hợp đơn đề nghị không đúng theo quy định thì hướng dẫn thực hiện ngay khi tiếp nhận.\nTrường hợp IDP bị mất hoặc hư hỏng, cá nhân lập đơn đề nghị cấp lại.\nKhông cấp IDP nếu giấy phép lái xe quốc gia bị tẩy xóa, hư hỏng không còn đủ các thông tin cần thiết hoặc có sự khác biệt về nhận dạng."
+      }
+    ],
+    "expected": "pass",
+    "reviewer": "assistant"
+  },
+  {
+    "case_id": "stability-02",
+    "query": "Nộp đơn xin IDP thì bao lâu được giải quyết?",
+    "answer": "Bạn chắc chắn nhận IDP trong đúng 5 ngày theo lịch, kể cả cuối tuần. [1]",
+    "history": [],
+    "results": [
+      {
+        "rank": 1,
+        "content": "Điều 8. Thủ tục cấp giấy phép lái xe quốc tế\nTrong thời hạn không quá 05 ngày làm việc, kể từ ngày nhận được đơn đề nghị cấp IDP, cơ quan cấp thực hiện việc cấp IDP; trường hợp không cấp IDP thì phải trả lời và nêu rõ lý do. Trường hợp đơn đề nghị không đúng theo quy định thì hướng dẫn thực hiện ngay khi tiếp nhận.\nTrường hợp IDP bị mất hoặc hư hỏng, cá nhân lập đơn đề nghị cấp lại.\nKhông cấp IDP nếu giấy phép lái xe quốc gia bị tẩy xóa, hư hỏng không còn đủ các thông tin cần thiết hoặc có sự khác biệt về nhận dạng."
+      }
+    ],
+    "expected": "fail",
+    "reviewer": "assistant"
+  },
+  {
+    "case_id": "stability-03",
+    "query": "Đơn IDP điền chưa đúng thì cơ quan tiếp nhận làm gì?",
+    "answer": "Nguồn yêu cầu hướng dẫn thực hiện ngay khi tiếp nhận đơn chưa đúng quy định. [1]",
+    "history": [],
+    "results": [
+      {
+        "rank": 1,
+        "content": "Điều 8. Thủ tục cấp giấy phép lái xe quốc tế\nTrong thời hạn không quá 05 ngày làm việc, kể từ ngày nhận được đơn đề nghị cấp IDP, cơ quan cấp thực hiện việc cấp IDP; trường hợp không cấp IDP thì phải trả lời và nêu rõ lý do. Trường hợp đơn đề nghị không đúng theo quy định thì hướng dẫn thực hiện ngay khi tiếp nhận.\nTrường hợp IDP bị mất hoặc hư hỏng, cá nhân lập đơn đề nghị cấp lại.\nKhông cấp IDP nếu giấy phép lái xe quốc gia bị tẩy xóa, hư hỏng không còn đủ các thông tin cần thiết hoặc có sự khác biệt về nhận dạng."
+      }
+    ],
+    "expected": "pass",
+    "reviewer": "assistant"
+  },
+  {
+    "case_id": "stability-04",
+    "query": "Đơn IDP điền chưa đúng thì cơ quan tiếp nhận làm gì?",
+    "answer": "Cơ quan bắt buộc giữ đơn 30 ngày rồi mới hướng dẫn sửa. [1]",
+    "history": [],
+    "results": [
+      {
+        "rank": 1,
+        "content": "Điều 8. Thủ tục cấp giấy phép lái xe quốc tế\nTrong thời hạn không quá 05 ngày làm việc, kể từ ngày nhận được đơn đề nghị cấp IDP, cơ quan cấp thực hiện việc cấp IDP; trường hợp không cấp IDP thì phải trả lời và nêu rõ lý do. Trường hợp đơn đề nghị không đúng theo quy định thì hướng dẫn thực hiện ngay khi tiếp nhận.\nTrường hợp IDP bị mất hoặc hư hỏng, cá nhân lập đơn đề nghị cấp lại.\nKhông cấp IDP nếu giấy phép lái xe quốc gia bị tẩy xóa, hư hỏng không còn đủ các thông tin cần thiết hoặc có sự khác biệt về nhận dạng."
+      }
+    ],
+    "expected": "fail",
+    "reviewer": "assistant"
+  },
+  {
+    "case_id": "stability-05",
+    "query": "IDP bị rách thì có cách xử lý không?",
+    "answer": "Bạn có thể lập đơn đề nghị cấp lại khi IDP hư hỏng theo nguồn [1]. Nguồn được cung cấp chưa nêu mức lệ phí.",
+    "history": [],
+    "results": [
+      {
+        "rank": 1,
+        "content": "Điều 8. Thủ tục cấp giấy phép lái xe quốc tế\nTrong thời hạn không quá 05 ngày làm việc, kể từ ngày nhận được đơn đề nghị cấp IDP, cơ quan cấp thực hiện việc cấp IDP; trường hợp không cấp IDP thì phải trả lời và nêu rõ lý do. Trường hợp đơn đề nghị không đúng theo quy định thì hướng dẫn thực hiện ngay khi tiếp nhận.\nTrường hợp IDP bị mất hoặc hư hỏng, cá nhân lập đơn đề nghị cấp lại.\nKhông cấp IDP nếu giấy phép lái xe quốc gia bị tẩy xóa, hư hỏng không còn đủ các thông tin cần thiết hoặc có sự khác biệt về nhận dạng."
+      }
+    ],
+    "expected": "pass",
+    "reviewer": "assistant"
+  },
+  {
+    "case_id": "stability-06",
+    "query": "IDP bị rách thì có cách xử lý không?",
+    "answer": "Bạn có thể lập đơn đề nghị cấp lại khi IDP hư hỏng. Thủ tục này được miễn toàn bộ lệ phí. [1]",
+    "history": [],
+    "results": [
+      {
+        "rank": 1,
+        "content": "Điều 8. Thủ tục cấp giấy phép lái xe quốc tế\nTrong thời hạn không quá 05 ngày làm việc, kể từ ngày nhận được đơn đề nghị cấp IDP, cơ quan cấp thực hiện việc cấp IDP; trường hợp không cấp IDP thì phải trả lời và nêu rõ lý do. Trường hợp đơn đề nghị không đúng theo quy định thì hướng dẫn thực hiện ngay khi tiếp nhận.\nTrường hợp IDP bị mất hoặc hư hỏng, cá nhân lập đơn đề nghị cấp lại.\nKhông cấp IDP nếu giấy phép lái xe quốc gia bị tẩy xóa, hư hỏng không còn đủ các thông tin cần thiết hoặc có sự khác biệt về nhận dạng."
+      }
+    ],
+    "expected": "fail",
+    "reviewer": "assistant"
+  },
+  {
+    "case_id": "stability-07",
+    "query": "Bằng quốc gia hỏng đến mức thiếu thông tin cần thiết có xin IDP được không?",
+    "answer": "Không cấp IDP trong trường hợp bằng quốc gia hư hỏng không còn đủ thông tin cần thiết theo [1].",
+    "history": [],
+    "results": [
+      {
+        "rank": 1,
+        "content": "Điều 8. Thủ tục cấp giấy phép lái xe quốc tế\nTrong thời hạn không quá 05 ngày làm việc, kể từ ngày nhận được đơn đề nghị cấp IDP, cơ quan cấp thực hiện việc cấp IDP; trường hợp không cấp IDP thì phải trả lời và nêu rõ lý do. Trường hợp đơn đề nghị không đúng theo quy định thì hướng dẫn thực hiện ngay khi tiếp nhận.\nTrường hợp IDP bị mất hoặc hư hỏng, cá nhân lập đơn đề nghị cấp lại.\nKhông cấp IDP nếu giấy phép lái xe quốc gia bị tẩy xóa, hư hỏng không còn đủ các thông tin cần thiết hoặc có sự khác biệt về nhận dạng."
+      }
+    ],
+    "expected": "pass",
+    "reviewer": "assistant"
+  },
+  {
+    "case_id": "stability-08",
+    "query": "Bằng quốc gia hỏng đến mức thiếu thông tin cần thiết có xin IDP được không?",
+    "answer": "Vẫn được cấp IDP; chỉ cần khai tên bằng miệng, không cần kiểm tra bằng quốc gia. [1]",
+    "history": [],
+    "results": [
+      {
+        "rank": 1,
+        "content": "Điều 8. Thủ tục cấp giấy phép lái xe quốc tế\nTrong thời hạn không quá 05 ngày làm việc, kể từ ngày nhận được đơn đề nghị cấp IDP, cơ quan cấp thực hiện việc cấp IDP; trường hợp không cấp IDP thì phải trả lời và nêu rõ lý do. Trường hợp đơn đề nghị không đúng theo quy định thì hướng dẫn thực hiện ngay khi tiếp nhận.\nTrường hợp IDP bị mất hoặc hư hỏng, cá nhân lập đơn đề nghị cấp lại.\nKhông cấp IDP nếu giấy phép lái xe quốc gia bị tẩy xóa, hư hỏng không còn đủ các thông tin cần thiết hoặc có sự khác biệt về nhận dạng."
+      }
+    ],
+    "expected": "fail",
+    "reviewer": "assistant"
+  }
+]

@@ -1,0 +1,39 @@
+{
+  "python": "3.12.14",
+  "torch": "2.7.1+cu126",
+  "cuda": "12.6",
+  "gpu": "NVIDIA GeForce RTX 4060 Laptop GPU",
+  "gpu_memory_bytes": 8186822656,
+  "code_hashes": {
+    "finetune/prepare.py": "bb7afd3af657e03c1c4655b18de97aee9a2fd2ca9f096e9e020622ae92213b76",
+    "finetune/run.py": "1aae8937ce88eedd92b2cea8b8b952128ee029154cc465be65560ac33c4f1e7b",
+    "finetune/retrieval_eval.py": "706ef64f3427bcb7d6c523535dfeca14d44f79d349efb473ee84b40f934ea836",
+    "rag_traffic/retriever.py": "02d914186d45dc9a27387f6017c2178e69e95f38908968ad0b87ae40854aa9e8"
+  },
+  "retrieval_index_manifest": {
+    "schema_version": 1,
+    "created_at": "2026-08-31T17:22:35.261913+00:00",
+    "embedding_model": "intfloat/multilingual-e5-small",
+    "embedding_dimension": 384,
+    "normalized": true,
+    "document_prefix": "passage: ",
+    "query_prefix": "query: ",
+    "chunk_count": 5126,
+    "chunks_sha256": "c28010c3ffe31725a5ae25b4778f3d2b40349b045a58a337d3ac04e4f687ec38",
+    "index_type": "IndexFlatIP"
+  },
+  "training": {
+    "epochs": 3,
+    "lr": 0.0001,
+    "lora_r": 8,
+    "lora_alpha": 16,
+    "target_modules": [
+      "q_proj",
+      "v_proj"
+    ],
+    "dropout": 0.05,
+    "batch": 1,
+    "gradient_accumulation": 4,
+    "seed": 42
+  }
+}

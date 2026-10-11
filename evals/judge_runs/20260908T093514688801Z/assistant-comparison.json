@@ -1,0 +1,18 @@
+{
+  "scope": "AI-versus-AI, previously seen pilot; not human calibration or legal accuracy",
+  "reference": "assistant",
+  "positive_class": "fail",
+  "pairs": 10,
+  "agreement": 0.8,
+  "tp": 0,
+  "fp": 0,
+  "fn": 2,
+  "tn": 8,
+  "fail_precision": null,
+  "fail_recall": 0.0,
+  "disagreement_ids": [
+    "01a08037-7dbd-7450-a1be-568f87a41cae",
+    "01a0802e-9db2-74b2-ac9b-51a9c8942962"
+  ],
+  "assistant_review_sha256": "e744143cb869f2119a1d2014a48a72fea483ec62dbaad36a54ce2f3d877243d9"
+}

@@ -1,0 +1,77 @@
+{
+  "session_id": "16665717de514ec99f6abbe4b9231546",
+  "mode": "rag",
+  "answer": "Theo tài liệu bạn cung cấp, **đi mô tô ngoài khu dân cư, không phải cao tốc, và không có biển hạn chế tốc độ riêng** thì mức tốc độ tối đa là **70 km/h nếu đi trên đường đôi hoặc đường một chiều có từ hai làn xe cơ giới trở lên; và 60 km/h nếu đi trên đường hai chiều hoặc đường một chiều có một làn xe cơ giới**. [3]\n\nViệc **có dải phân cách giữa** không phải là tiêu chí được bảng tại Điều 7 nêu trực tiếp; tài liệu phân loại theo **“đường đôi; đường một chiều có từ hai làn xe cơ giới trở lên”** và **“đường hai chiều; đường một chiều có một làn xe cơ giới”**. Vì vậy, nếu đoạn đường của bạn thuộc nhóm “đường đôi” thì áp dụng **70 km/h**; còn nếu là đường hai chiều thì áp dụng **60 km/h**. [3]\n\nNếu trên đoạn đường đó sau này có **biển hạn chế tốc độ riêng**, thì phải đi theo biển báo đó, vì Điều 10 nêu việc đặt biển hạn chế tốc độ được áp dụng theo điều kiện thực tế của đoạn đường/tuyến đường. [4]\n\nLưu ý thêm: Điều 7 của Thông tư này ghi rõ tốc độ ngoài khu vực đông dân cư cho **xe mô tô** là 70/60 như trên; còn Điều 8 là mức cho **xe máy chuyên dùng, xe gắn máy** chỉ **không quá 40 km/h**, nên không dùng cho xe mô tô của bạn. [3][5]\n\nĐây là tra cứu từ tài liệu được cung cấp; nếu bạn muốn, tôi có thể giúp bạn xác định **đoạn đường của bạn có phải “đường đôi” hay không** theo mô tả thực tế để chốt chính xác 60 hay 70.",
+  "results": [
+    {
+      "rank": 1,
+      "score": 0.8944,
+      "chunk_id": "328b2cc296345d2f0abd91f4",
+      "document_id": "31/2019/TT-BGTVT",
+      "document_id_source": "header",
+      "title": "THÔNG TƯ — Quy định về tốc độ và khoảng cách an toàn",
+      "article": "Điều 9. Tốc độ của các loại xe cơ giới, xe máy chuyên dùng trên đường cao tốc",
+      "source_file": "TT.31.2019.TT.BGTVT.docx",
+      "content": "Điều 9. Tốc độ của các loại xe cơ giới, xe máy chuyên dùng trên đường cao tốc\n1. Tốc độ tối đa cho phép khai thác trên đường cao tốc không vượt quá 120 km/h.\n2. Khi tham gia giao thông trên đường cao tốc, người lái xe, người điều khiển xe máy chuyên dùng phải tuân thủ tốc độ tối đa, tốc độ tối thiểu ghi trên biển báo hiệu đường bộ, sơn kẻ mặt đường trên các làn xe."
+    },
+    {
+      "rank": 2,
+      "score": 0.8914,
+      "chunk_id": "ef44bfa6d2c11cba430ba2d4",
+      "document_id": "31/2019/TT-BGTVT",
+      "document_id_source": "header",
+      "title": "THÔNG TƯ — Quy định về tốc độ và khoảng cách an toàn",
+      "article": "Điều 6. Tốc độ tối đa cho phép xe cơ giới tham gia giao thông trong khu vực đông dân cư (trừ đường cao tốc)",
+      "source_file": "TT.31.2019.TT.BGTVT.docx",
+      "content": "Điều 6. Tốc độ tối đa cho phép xe cơ giới tham gia giao thông trong khu vực đông dân cư (trừ đường cao tốc)\nLoại xe cơ giới đường bộ | Tốc độ tối đa (km/h) | Tốc độ tối đa (km/h)\nLoại xe cơ giới đường bộ | Đường đôi; đường một chiều có từ hai làn xe cơ giới trở lên | Đường hai chiều; đường một chiều có một làn xe cơ giới\nCác phương tiện xe cơ giới, trừ các xe được quy định tại Điều 8 Thông tư này. | 60 | 50"
+    },
+    {
+      "rank": 3,
+      "score": 0.8913,
+      "chunk_id": "4749485a68eb10b081da85ef",
+      "document_id": "31/2019/TT-BGTVT",
+      "document_id_source": "header",
+      "title": "THÔNG TƯ — Quy định về tốc độ và khoảng cách an toàn",
+      "article": "Điều 7. Tốc độ tối đa cho phép xe cơ giới tham gia giao thông ngoài khu vực đông dân cư (trừ đường cao tốc)",
+      "source_file": "TT.31.2019.TT.BGTVT.docx",
+      "content": "Điều 7. Tốc độ tối đa cho phép xe cơ giới tham gia giao thông ngoài khu vực đông dân cư (trừ đường cao tốc)\nLoại xe cơ giới đường bộ | Tốc độ tối đa (km/h) | Tốc độ tối đa (km/h)\nLoại xe cơ giới đường bộ | Đường đôi; đường một chiều có từ hai làn xe cơ giới trở lên | Đường hai chiều; đường một chiều có một làn xe cơ giới\nXe ô tô con, xe ô tô chở người đến 30 chỗ (trừ xe buýt); ô tô tải có trọng tải nhỏ hơn hoặc bằng 3,5 tấn. | 90 | 80\nXe ô tô chở người trên 30 chỗ (trừ xe buýt); ô tô tải có trọng tải trên 3,5 tấn (trừ ô tô xi téc). | 80 | 70\nÔ tô buýt; ô tô đầu kéo kéo sơ mi rơ moóc; xe mô tô; ô tô chuyên dùng (trừ ô tô trộn vữa, ô tô trộn bê tông). | 70 | 60\nÔ tô kéo rơ moóc; ô tô kéo xe khác; ô tô trộn vữa, ô tô trộn bê tông, ô tô xi téc. | 60 | 50"
+    },
+    {
+      "rank": 4,
+      "score": 0.8884,
+      "chunk_id": "b51aa0688d37f1c3cc380014",
+      "document_id": "31/2019/TT-BGTVT",
+      "document_id_source": "header",
+      "title": "THÔNG TƯ — Quy định về tốc độ và khoảng cách an toàn",
+      "article": "Điều 10. Đặt biển báo hạn chế tốc độ",
+      "source_file": "TT.31.2019.TT.BGTVT.docx",
+      "content": "Điều 10. Đặt biển báo hạn chế tốc độ\n1. Việc đặt biển báo hạn chế tốc độ thực hiện theo quy định của pháp luật về báo hiệu đường bộ và phải căn cứ vào điều kiện thực tế của đoạn tuyến, tuyến đường về kết cấu hạ tầng giao thông đường bộ, về lưu lượng, chủng loại phương tiện và về thời gian trong ngày.\nĐối với dự án đầu tư xây dựng mới hoặc nâng cấp, cải tạo công trình đường bộ, lắp đặt đầy đủ biển báo hạn chế tốc độ trước khi đưa công trình vào sử dụng. Đối với đoạn tuyến, tuyến đường bộ đang khai thác thuộc phạm vi quản lý, cơ quan quản lý đường bộ phải chủ động, kịp thời lắp đặt biển báo hiệu đường bộ theo quy định.\n2. Trên các đường nhánh ra, vào đường cao tốc, khi đặt biển báo hạn chế tốc độ, trị số tốc độ ghi trên biển không được dưới 50 km/h.\n3. Cơ quan có thẩm quyền quy định tại khoản 4 Điều này, quyết định đặt biển báo hiệu các trường hợp dưới đây:\na) Đối với đường đôi, đặt biển báo hạn chế tốc độ riêng cho từng chiều đường;\nb) Đặt biển báo hạn chế tốc độ cho một khoảng thời gian trong ngày (biển phụ, biển điện tử);\nc) Đặt biển báo hạn chế tốc độ riêng đối với các loại phương tiện có nguy cơ mất an toàn giao thông cao;\nd) Đặt biển báo hạn chế tốc độ có trị số lớn hơn 60 km/h (đối với đoạn đường trong khu vực đông dân cư), lớn hơn 90 km/h (đối với đoạn đường ngoài khu vực đông dân cư) cho các tuyến đường có vận tốc thiết kế lớn hơn vận tốc tối đa quy định tại Điều 6, Điều 7 Thông tư này nhưng phải đảm bảo khai thác an toàn giao thông.\n4. Cơ quan có thẩm quyền quyết định đặt biển báo đối với các trường hợp quy định tại khoản 3 Điều này, bao gồm:\na) Bộ Giao thông vận tải đối với đường bộ cao tốc;\nb) Tổng cục Đường bộ việt Nam đối với hệ thống quốc lộ và đường khác thuộc phạm vi quản lý của Bộ Giao thông vận tải (trừ đường bộ cao tốc);"
+    },
+    {
+      "rank": 5,
+      "score": 0.8881,
+      "chunk_id": "d6268f059648c95245c4b14f",
+      "document_id": "31/2019/TT-BGTVT",
+      "document_id_source": "header",
+      "title": "THÔNG TƯ — Quy định về tốc độ và khoảng cách an toàn",
+      "article": "Điều 8. Tốc độ tối đa cho phép đối với xe máy chuyên dùng, xe gắn máy (kể cả xe máy điện) và các loại xe tương tự trên đường bộ (trừ đường cao tốc)",
+      "source_file": "TT.31.2019.TT.BGTVT.docx",
+      "content": "Điều 8. Tốc độ tối đa cho phép đối với xe máy chuyên dùng, xe gắn máy (kể cả xe máy điện) và các loại xe tương tự trên đường bộ (trừ đường cao tốc)\nĐối với xe máy chuyên dùng, xe gắn máy (kể cả xe máy điện) và các loại xe tương tự khi tham gia giao thông tốc độ tối đa không quá 40 km/h."
+    },
+    {
+      "rank": 6,
+      "score": 0.8792,
+      "chunk_id": "ebd35a8becc6c6a4fdb2fb51",
+      "document_id": "09/2013/TT-BGTVT",
+      "document_id_source": "header",
+      "title": "THÔNG TƯ — Ban hành Quy chuẩn kỹ thuật quốc gia",
+      "article": "",
+      "source_file": "VanBanGoc_09.2013.TT.BGTVT.pdf",
+      "content": "cấm xe gắn máy ở ñầu lối dành riêng\n\nHình 7. Báo báo cấm xe ôtô tải và ôtô khách ñi theo ñường chính\n\n5.2.4. Ngay sau vị trí các biển báo nêu trên và trước khu vực ño lường sơ cấp\nmột cự ly tính toán nhất ñịnh (khoảng 50m), ñặt biển báo khống chế tốc ñộ tối\nthiểu và tối ña theo quy ñịnh của Quy chuẩn kỹ thuật quốc gia về Báo hiệu ñường\nbộ QCVN 41: 2012/BGTVT (biển 127 và biển 306) ñể việc ño lường ñảm bảo ñộ\nchính xác. Mức khống chế tùy thuộc ñộ chính xác của hệ thống thiết bị ño lường\nnhưng phổ biến là ở mức 30 ~ 60(km/h). Các trường hợp khác do Tổng cục ðường\nbộ Việt Nam (ñối với ñường quốc lộ) hoặc Sở Giao thông vận tải (ñối với ñường\n\n\f60\n\nCÔNG BÁO/Số 293 + 294/Ngày 01-06-2013\n\ntỉnh, ñường ñô thị) xem xét quyết ñịnh nhưng cận dưới không thấp hơn 15 km/h và\ncận trên không cao hơn 80km/h. Cụm biển báo mẫu như trong Hình 8 dưới ñây,\nñược ñặt trên lối dành riêng cho các xe bị kiểm soát hay trên ñường chính nếu\nkhông có lối dành riêng.\n\nHình 8. Biển báo khống chế biên ñộ giới hạn tốc ñộ xe (các số là ví dụ)\n\n5.2.5. Tại khu vực ño lường sơ cấp\n\na) Biển báo\n\nTrong trường hợp quy mô trạm KTTTX ñơn giản và vừa, biển báo cấm xe gắn\nmáy (biển 111a theo Quy chuẩn kỹ thuật quốc gia về Báo hiệu ñường bộ QCVN\n41:2012/BGTVT) ñi vào các làn ñường dành cho việc ño lường sơ cấp ñối với xe\nôtô ñược gắn trên giá long môn thứ nhất và ở trên từng làn. Biển báo này ñược gắn\ncùng với ñèn tín hiệu ñóng mở làn.\n\nb) Biển báo ñiện tử (VMS)\n\nBao gồm các biển báo ñiện tử ñặt trên giá long môn thứ ba và biển báo ñiện tử\nñặt tại vị trí trên ñảo chuyển hướng giữa lối ñi cho xe không vi phạm và lối ñi cho\nxe vi phạm khi ño lường sơ cấp. ðể ñảm bảo khả năng nhìn rõ trong ñiều kiện\nnắng gắt ban ngày, biển báo VMS phải có tấm che nắng sơn ñen gắn phía trên biển."
+    }
+  ],
+  "trace_id": "01a08037-7dbd-7450-a1be-568f87a41cae",
+  "disclaimer": "Thông tin dùng để tra cứu; cần đối chiếu văn bản gốc và tình trạng hiệu lực.",
+  "case_id": "motorcycle",
+  "query": "Tôi đi xe mô tô ngoài khu dân cư, trên đường có dải phân cách giữa, không phải cao tốc và không có biển hạn chế tốc độ riêng. Mức tối đa là 60 hay 70 km/h?"
+}

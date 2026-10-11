@@ -1,0 +1,25 @@
+{
+  "judgment": {
+    "verdict": "pass",
+    "needs_human_review": false,
+    "reason": "The answer is supported by the provided sources and correctly stays within the asked scope.",
+    "issues": []
+  },
+  "usage": {
+    "prompt_tokens": 4453,
+    "completion_tokens": 341,
+    "total_tokens": 4794,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 292,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "response_id": "chatcmpl-ELnLAWtY7P9DeEuxK4BL5Yo6ryAfH",
+  "returned_model": "gpt-5.4-mini-2026-03-17"
+}

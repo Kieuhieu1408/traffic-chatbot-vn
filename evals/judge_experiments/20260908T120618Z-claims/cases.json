@@ -1,0 +1,346 @@
+[
+  {
+    "row": {
+      "query": "Bằng lái quốc tế của Việt Nam có phải một thẻ nhựa như bằng trong nước không?",
+      "history": [],
+      "answer": "Không. Theo tài liệu được cung cấp, giấy phép lái xe quốc tế (IDP) do Việt Nam cấp **không phải thẻ nhựa như bằng lái trong nước**, mà là **một quyển sổ kích thước A6**, có bìa màu xám và các trang bên trong màu trắng theo mẫu quy định.[1]\n\nNgoài ra, tài liệu còn cho thấy IDP do Việt Nam cấp **chỉ dùng khi điều khiển phương tiện cơ giới trên lãnh thổ nước tham gia Công ước Viên**, và người sử dụng phải mang theo **IDP cùng giấy phép lái xe quốc gia**; IDP này **không có giá trị sử dụng trong lãnh thổ Việt Nam**.[2][4]\n\nLưu ý: thông tin trên chỉ dựa vào Thông tư 29/2015/TT-BGTVT trong tài liệu bạn cung cấp; nếu có quy định mới hơn thì cần đối chiếu thêm vì tài liệu hiện chưa cho biết hiệu lực hiện nay của văn bản.",
+      "results": [
+        {
+          "rank": 1,
+          "score": 0.913,
+          "chunk_id": "eb67accf99d67f008179560d",
+          "document_id": "29/2015/TT-BGTVT",
+          "document_id_source": "header",
+          "title": "THÔNG TƯ — Quy định về cấp, sử dụng giấy phép lái xe quốc tế",
+          "article": "Điều 4. Mẫu giấy phép lái xe quốc tế",
+          "source_file": "29.2015.TT.BGTVT.docx",
+          "content": "Điều 4. Mẫu giấy phép lái xe quốc tế\n1. IDP là một quyển sổ có kích thước A6 (148 mm x 105 mm), có ký hiệu bảo mật, bìa màu xám, những trang giấy bên trong màu trắng theo mẫu quy định tại Phụ lục I ban hành kèm theo Thông tư này.\n2. Trang 1 (trang bìa) ghi thông tin cơ bản của IDP được in song ngữ tiếng Việt và tiếng Anh; trang 2 quy định về phạm vi sử dụng IDP in song ngữ tiếng Việt và tiếng Anh, trang 3 quy định phần khai về người lái xe và phân hạng IDP in bằng tiếng Việt, trang 4 để trống, trang 5 quy định phần khai về người lái xe và phân hạng IDP in bằng tiếng Anh, trang 6 quy định phần khai về người lái xe và phân hạng IDP in bằng tiếng Nga, trang 7 quy định phần khai về người lái xe và phân hạng IDP in bằng tiếng Tây Ban Nha, trang 8 quy định phần khai về người lái xe và phân hạng IDP in bằng tiếng Pháp, trang 9 quy định hạng xe được điều khiển in bằng tiếng Pháp.\n3. Số IDP gồm ký hiệu phân biệt quốc gia của Việt Nam đối với giao thông quốc tế là VN và 12 chữ số sau là số giấy phép lái xe quốc gia."
+        },
+        {
+          "rank": 2,
+          "score": 0.9053,
+          "chunk_id": "e4cc5177cef207e66f4170fe",
+          "document_id": "29/2015/TT-BGTVT",
+          "document_id_source": "header",
+          "title": "THÔNG TƯ — Quy định về cấp, sử dụng giấy phép lái xe quốc tế",
+          "article": "Điều 10. Sử dụng giấy phép lái xe quốc tế do Việt Nam cấp",
+          "source_file": "29.2015.TT.BGTVT.docx",
+          "content": "Điều 10. Sử dụng giấy phép lái xe quốc tế do Việt Nam cấp\n1. Người có IDP do Việt Nam cấp khi điều khiển phương tiện cơ giới tham gia giao thông trên lãnh thổ nước tham gia Công ước Viên phải mang theo IDP và giấy phép lái xe quốc gia; tuân thủ pháp luật giao thông đường bộ của nước sở tại.\n2. IDP do Việt Nam cấp không có giá trị sử dụng trong lãnh thổ Việt Nam."
+        },
+        {
+          "rank": 3,
+          "score": 0.9043,
+          "chunk_id": "f0477521c68def1a31f8fdd6",
+          "document_id": "29/2015/TT-BGTVT",
+          "document_id_source": "header",
+          "title": "THÔNG TƯ — Quy định về cấp, sử dụng giấy phép lái xe quốc tế",
+          "article": "Điều 6. Đối tượng được cấp giấy phép lái xe quốc tế",
+          "source_file": "29.2015.TT.BGTVT.docx",
+          "content": "Điều 6. Đối tượng được cấp giấy phép lái xe quốc tế\nNgười Việt Nam, người nước ngoài có thẻ thường trú tại Việt Nam, có giấy phép lái xe quốc gia do Việt Nam cấp bằng vật liệu PET. còn giá trị sử dụng."
+        },
+        {
+          "rank": 4,
+          "score": 0.9037,
+          "chunk_id": "a619cafb6419190e2764107b",
+          "document_id": "29/2015/TT-BGTVT",
+          "document_id_source": "header",
+          "title": "THÔNG TƯ — Quy định về cấp, sử dụng giấy phép lái xe quốc tế",
+          "article": "Điều 10. Sử dụng giấy phép lái xe quốc tế do Việt Nam cấp",
+          "source_file": "VanBanGoc_29.2015.TT.BGTVT.pdf",
+          "content": "Điều 10. Sử dụng giấy phép lái xe quốc tế do Việt Nam cấp\n\n1. Người có IDP do Việt Nam cấp khi điều khiển phương tiện cơ giới tham gia\ngiao thông trên lãnh thổ nước tham gia Công ước Viên phải mang theo IDP và giấy\nphép lái xe quốc gia; tuân thủ pháp luật giao thông đường bộ của nước sở tại.\n\n2. IDP do Việt Nam cấp không có giá trị sử dụng trong lãnh thổ Việt Nam.\n\n\f22\n\nCÔNG BÁO/Số 859 + 860/Ngày 24-7-2015"
+        },
+        {
+          "rank": 5,
+          "score": 0.9019,
+          "chunk_id": "86bd46debdd0fbd7b9b12df1",
+          "document_id": "29/2015/TT-BGTVT",
+          "document_id_source": "header",
+          "title": "THÔNG TƯ — Quy định về cấp, sử dụng giấy phép lái xe quốc tế",
+          "article": "Điều 8. Thủ tục cấp giấy phép lái xe quốc tế",
+          "source_file": "VanBanGoc_29.2015.TT.BGTVT.pdf",
+          "content": "Điều 8. Thủ tục cấp giấy phép lái xe quốc tế\n1. Cá nhân nộp đơn đề nghị cấp IDP theo mẫu quy định tại Phụ lục IV ban\nhành kèm theo Thông tư này. Khi nộp đơn phải xuất trình bản chính giấy phép lái\nxe quốc gia do Việt Nam cấp, hộ chiếu, thẻ thường trú (đối với người nước ngoài)\ncòn giá trị để kiểm tra, đối chiếu.\n\n2. Trình tự cấp IDP\na) Cá nhân nộp đơn đề nghị cấp IDP theo quy định tại khoản 1 Điều này trực\ntiếp tại Tổng cục Đường bộ Việt Nam hoặc Sở Giao thông vận tải để thực hiện\nkiểm tra tính chính xác và hợp pháp của việc cấp IDP. Trường hợp đơn đề nghị\nkhông đúng theo quy định thì hướng dẫn thực hiện ngay khi tiếp nhận;\n\nb) Trong thời hạn không quá 05 ngày làm việc, kể từ ngày nhận được đơn đề\nnghị cấp IDP, Tổng cục Đường bộ Việt Nam hoặc Sở Giao thông vận tải thực hiện\nviệc cấp IDP cho cá nhân; trường hợp không cấp IDP thì phải trả lời và nêu rõ lý do.\n\n3. Trường hợp IDP bị mất hoặc hư hỏng, cá nhân lập đơn đề nghị cấp lại theo\n\nquy định tại khoản 1 Điều này.\n\n\fCÔNG BÁO/Số 859 + 860/Ngày 24-7-2015\n\n21\n\n4. Không cấp IDP đối với các trường hợp sau đây:\n\na) Giấy phép lái xe quốc gia bị tẩy xóa, hư hỏng không còn đủ các thông tin\n\ncần thiết hoặc có sự khác biệt về nhận dạng;\n\nb) Giấy phép lái xe quốc gia không do cơ quan có thẩm quyền cấp theo quy định.\n\n5. Trường hợp phát hiện cá nhân có hành vi gian dối để được cấp IDP, tẩy xóa\nhoặc làm sai lệch thông tin trên IDP được cấp, ngoài việc bị cơ quan cấp IDP ra\nquyết định thu hồi IDP, cá nhân đó còn phải chịu trách nhiệm trước pháp luật và\nkhông được cấp IDP trong thời hạn 03 năm, kể từ ngày bị phát hiện hành vi vi phạm."
+        },
+        {
+          "rank": 6,
+          "score": 0.9008,
+          "chunk_id": "e85b959216ecec3d583def89",
+          "document_id": "29/2015/TT-BGTVT",
+          "document_id_source": "header",
+          "title": "THÔNG TƯ — Quy định về cấp, sử dụng giấy phép lái xe quốc tế",
+          "article": "Điều 8. Thủ tục cấp giấy phép lái xe quốc tế",
+          "source_file": "29.2015.TT.BGTVT.docx",
+          "content": "Điều 8. Thủ tục cấp giấy phép lái xe quốc tế\n1. Cá nhân nộp đơn đề nghị cấp IDP theo mẫu quy định tại Phụ lục IV ban hành kèm theo Thông tư này. Khi nộp đơn phải xuất trình bản chính giấy phép lái xe quốc gia do Việt Nam cấp, hộ chiếu, thẻ thường trú (đối với người nước ngoài) còn giá trị để kiểm tra, đối chiếu.\n2. Trình tự cấp IDP\na) Cá nhân nộp đơn đề nghị cấp IDP theo quy định tại khoản 1 Điều này trực tiếp tại Tổng cục Đường bộ Việt Nam hoặc Sở Giao thông vận tải để thực hiện kiểm tra tính chính xác và hợp pháp của việc cấp IDP. Trường hợp đơn đề nghị không đúng theo quy định thì hướng dẫn thực hiện ngay khi tiếp nhận;\nb) Trong thời hạn không quá 05 ngày làm việc, kể từ ngày nhận được đơn đề nghị cấp IDP, Tổng cục Đường bộ Việt Nam hoặc Sở Giao thông vận tải thực hiện việc cấp IDP cho cá nhân; trường hợp không cấp IDP thì phải trả lời và nêu rõ lý do.\n3. Trường hợp IDP bị mất hoặc hư hỏng, cá nhân lập đơn đề nghị cấp lại theo quy định tại khoản 1 Điều này.\n4. Không cấp IDP đối với các trường hợp sau đây:\na) Giấy phép lái xe quốc gia bị tẩy xóa, hư hỏng không còn đủ các thông tin cần thiết hoặc có sự khác biệt về nhận dạng;\nb) Giấy phép lái xe quốc gia không do cơ quan có thẩm quyền cấp theo quy định.\n5. Trường hợp phát hiện cá nhân có hành vi gian dối để được cấp IDP, tẩy xóa hoặc làm sai lệch thông tin trên IDP được cấp, ngoài việc bị cơ quan cấp IDP ra quyết định thu hồi IDP, cá nhân đó còn phải chịu trách nhiệm trước pháp luật và không được cấp IDP trong thời hạn 03 năm, kể từ ngày bị phát hiện hành vi vi phạm."
+        }
+      ]
+    },
+    "id": "original-idp-long",
+    "expected": "fail"
+  },
+  {
+    "row": {
+      "query": "Bằng lái quốc tế của Việt Nam có phải một thẻ nhựa như bằng trong nước không?",
+      "history": [],
+      "answer": "Không. Theo tài liệu được cung cấp, giấy phép lái xe quốc tế (IDP) do Việt Nam cấp **không phải thẻ nhựa như bằng lái trong nước**, mà là **một quyển sổ kích thước A6**, có bìa màu xám và các trang bên trong màu trắng theo mẫu quy định.[1]\n\nNgoài ra, tài liệu còn cho thấy IDP do Việt Nam cấp **dùng khi điều khiển phương tiện cơ giới trên lãnh thổ nước tham gia Công ước Viên**, và người sử dụng phải mang theo **IDP cùng giấy phép lái xe quốc gia**; IDP này **không có giá trị sử dụng trong lãnh thổ Việt Nam**.[2][4]\n\nLưu ý: thông tin trên chỉ dựa vào Thông tư 29/2015/TT-BGTVT trong tài liệu bạn cung cấp; nếu có quy định mới hơn thì cần đối chiếu thêm vì tài liệu hiện chưa cho biết hiệu lực hiện nay của văn bản.",
+      "results": [
+        {
+          "rank": 1,
+          "score": 0.913,
+          "chunk_id": "eb67accf99d67f008179560d",
+          "document_id": "29/2015/TT-BGTVT",
+          "document_id_source": "header",
+          "title": "THÔNG TƯ — Quy định về cấp, sử dụng giấy phép lái xe quốc tế",
+          "article": "Điều 4. Mẫu giấy phép lái xe quốc tế",
+          "source_file": "29.2015.TT.BGTVT.docx",
+          "content": "Điều 4. Mẫu giấy phép lái xe quốc tế\n1. IDP là một quyển sổ có kích thước A6 (148 mm x 105 mm), có ký hiệu bảo mật, bìa màu xám, những trang giấy bên trong màu trắng theo mẫu quy định tại Phụ lục I ban hành kèm theo Thông tư này.\n2. Trang 1 (trang bìa) ghi thông tin cơ bản của IDP được in song ngữ tiếng Việt và tiếng Anh; trang 2 quy định về phạm vi sử dụng IDP in song ngữ tiếng Việt và tiếng Anh, trang 3 quy định phần khai về người lái xe và phân hạng IDP in bằng tiếng Việt, trang 4 để trống, trang 5 quy định phần khai về người lái xe và phân hạng IDP in bằng tiếng Anh, trang 6 quy định phần khai về người lái xe và phân hạng IDP in bằng tiếng Nga, trang 7 quy định phần khai về người lái xe và phân hạng IDP in bằng tiếng Tây Ban Nha, trang 8 quy định phần khai về người lái xe và phân hạng IDP in bằng tiếng Pháp, trang 9 quy định hạng xe được điều khiển in bằng tiếng Pháp.\n3. Số IDP gồm ký hiệu phân biệt quốc gia của Việt Nam đối với giao thông quốc tế là VN và 12 chữ số sau là số giấy phép lái xe quốc gia."
+        },
+        {
+          "rank": 2,
+          "score": 0.9053,
+          "chunk_id": "e4cc5177cef207e66f4170fe",
+          "document_id": "29/2015/TT-BGTVT",
+          "document_id_source": "header",
+          "title": "THÔNG TƯ — Quy định về cấp, sử dụng giấy phép lái xe quốc tế",
+          "article": "Điều 10. Sử dụng giấy phép lái xe quốc tế do Việt Nam cấp",
+          "source_file": "29.2015.TT.BGTVT.docx",
+          "content": "Điều 10. Sử dụng giấy phép lái xe quốc tế do Việt Nam cấp\n1. Người có IDP do Việt Nam cấp khi điều khiển phương tiện cơ giới tham gia giao thông trên lãnh thổ nước tham gia Công ước Viên phải mang theo IDP và giấy phép lái xe quốc gia; tuân thủ pháp luật giao thông đường bộ của nước sở tại.\n2. IDP do Việt Nam cấp không có giá trị sử dụng trong lãnh thổ Việt Nam."
+        },
+        {
+          "rank": 3,
+          "score": 0.9043,
+          "chunk_id": "f0477521c68def1a31f8fdd6",
+          "document_id": "29/2015/TT-BGTVT",
+          "document_id_source": "header",
+          "title": "THÔNG TƯ — Quy định về cấp, sử dụng giấy phép lái xe quốc tế",
+          "article": "Điều 6. Đối tượng được cấp giấy phép lái xe quốc tế",
+          "source_file": "29.2015.TT.BGTVT.docx",
+          "content": "Điều 6. Đối tượng được cấp giấy phép lái xe quốc tế\nNgười Việt Nam, người nước ngoài có thẻ thường trú tại Việt Nam, có giấy phép lái xe quốc gia do Việt Nam cấp bằng vật liệu PET. còn giá trị sử dụng."
+        },
+        {
+          "rank": 4,
+          "score": 0.9037,
+          "chunk_id": "a619cafb6419190e2764107b",
+          "document_id": "29/2015/TT-BGTVT",
+          "document_id_source": "header",
+          "title": "THÔNG TƯ — Quy định về cấp, sử dụng giấy phép lái xe quốc tế",
+          "article": "Điều 10. Sử dụng giấy phép lái xe quốc tế do Việt Nam cấp",
+          "source_file": "VanBanGoc_29.2015.TT.BGTVT.pdf",
+          "content": "Điều 10. Sử dụng giấy phép lái xe quốc tế do Việt Nam cấp\n\n1. Người có IDP do Việt Nam cấp khi điều khiển phương tiện cơ giới tham gia\ngiao thông trên lãnh thổ nước tham gia Công ước Viên phải mang theo IDP và giấy\nphép lái xe quốc gia; tuân thủ pháp luật giao thông đường bộ của nước sở tại.\n\n2. IDP do Việt Nam cấp không có giá trị sử dụng trong lãnh thổ Việt Nam.\n\n\f22\n\nCÔNG BÁO/Số 859 + 860/Ngày 24-7-2015"
+        },
+        {
+          "rank": 5,
+          "score": 0.9019,
+          "chunk_id": "86bd46debdd0fbd7b9b12df1",
+          "document_id": "29/2015/TT-BGTVT",
+          "document_id_source": "header",
+          "title": "THÔNG TƯ — Quy định về cấp, sử dụng giấy phép lái xe quốc tế",
+          "article": "Điều 8. Thủ tục cấp giấy phép lái xe quốc tế",
+          "source_file": "VanBanGoc_29.2015.TT.BGTVT.pdf",
+          "content": "Điều 8. Thủ tục cấp giấy phép lái xe quốc tế\n1. Cá nhân nộp đơn đề nghị cấp IDP theo mẫu quy định tại Phụ lục IV ban\nhành kèm theo Thông tư này. Khi nộp đơn phải xuất trình bản chính giấy phép lái\nxe quốc gia do Việt Nam cấp, hộ chiếu, thẻ thường trú (đối với người nước ngoài)\ncòn giá trị để kiểm tra, đối chiếu.\n\n2. Trình tự cấp IDP\na) Cá nhân nộp đơn đề nghị cấp IDP theo quy định tại khoản 1 Điều này trực\ntiếp tại Tổng cục Đường bộ Việt Nam hoặc Sở Giao thông vận tải để thực hiện\nkiểm tra tính chính xác và hợp pháp của việc cấp IDP. Trường hợp đơn đề nghị\nkhông đúng theo quy định thì hướng dẫn thực hiện ngay khi tiếp nhận;\n\nb) Trong thời hạn không quá 05 ngày làm việc, kể từ ngày nhận được đơn đề\nnghị cấp IDP, Tổng cục Đường bộ Việt Nam hoặc Sở Giao thông vận tải thực hiện\nviệc cấp IDP cho cá nhân; trường hợp không cấp IDP thì phải trả lời và nêu rõ lý do.\n\n3. Trường hợp IDP bị mất hoặc hư hỏng, cá nhân lập đơn đề nghị cấp lại theo\n\nquy định tại khoản 1 Điều này.\n\n\fCÔNG BÁO/Số 859 + 860/Ngày 24-7-2015\n\n21\n\n4. Không cấp IDP đối với các trường hợp sau đây:\n\na) Giấy phép lái xe quốc gia bị tẩy xóa, hư hỏng không còn đủ các thông tin\n\ncần thiết hoặc có sự khác biệt về nhận dạng;\n\nb) Giấy phép lái xe quốc gia không do cơ quan có thẩm quyền cấp theo quy định.\n\n5. Trường hợp phát hiện cá nhân có hành vi gian dối để được cấp IDP, tẩy xóa\nhoặc làm sai lệch thông tin trên IDP được cấp, ngoài việc bị cơ quan cấp IDP ra\nquyết định thu hồi IDP, cá nhân đó còn phải chịu trách nhiệm trước pháp luật và\nkhông được cấp IDP trong thời hạn 03 năm, kể từ ngày bị phát hiện hành vi vi phạm."
+        },
+        {
+          "rank": 6,
+          "score": 0.9008,
+          "chunk_id": "e85b959216ecec3d583def89",
+          "document_id": "29/2015/TT-BGTVT",
+          "document_id_source": "header",
+          "title": "THÔNG TƯ — Quy định về cấp, sử dụng giấy phép lái xe quốc tế",
+          "article": "Điều 8. Thủ tục cấp giấy phép lái xe quốc tế",
+          "source_file": "29.2015.TT.BGTVT.docx",
+          "content": "Điều 8. Thủ tục cấp giấy phép lái xe quốc tế\n1. Cá nhân nộp đơn đề nghị cấp IDP theo mẫu quy định tại Phụ lục IV ban hành kèm theo Thông tư này. Khi nộp đơn phải xuất trình bản chính giấy phép lái xe quốc gia do Việt Nam cấp, hộ chiếu, thẻ thường trú (đối với người nước ngoài) còn giá trị để kiểm tra, đối chiếu.\n2. Trình tự cấp IDP\na) Cá nhân nộp đơn đề nghị cấp IDP theo quy định tại khoản 1 Điều này trực tiếp tại Tổng cục Đường bộ Việt Nam hoặc Sở Giao thông vận tải để thực hiện kiểm tra tính chính xác và hợp pháp của việc cấp IDP. Trường hợp đơn đề nghị không đúng theo quy định thì hướng dẫn thực hiện ngay khi tiếp nhận;\nb) Trong thời hạn không quá 05 ngày làm việc, kể từ ngày nhận được đơn đề nghị cấp IDP, Tổng cục Đường bộ Việt Nam hoặc Sở Giao thông vận tải thực hiện việc cấp IDP cho cá nhân; trường hợp không cấp IDP thì phải trả lời và nêu rõ lý do.\n3. Trường hợp IDP bị mất hoặc hư hỏng, cá nhân lập đơn đề nghị cấp lại theo quy định tại khoản 1 Điều này.\n4. Không cấp IDP đối với các trường hợp sau đây:\na) Giấy phép lái xe quốc gia bị tẩy xóa, hư hỏng không còn đủ các thông tin cần thiết hoặc có sự khác biệt về nhận dạng;\nb) Giấy phép lái xe quốc gia không do cơ quan có thẩm quyền cấp theo quy định.\n5. Trường hợp phát hiện cá nhân có hành vi gian dối để được cấp IDP, tẩy xóa hoặc làm sai lệch thông tin trên IDP được cấp, ngoài việc bị cơ quan cấp IDP ra quyết định thu hồi IDP, cá nhân đó còn phải chịu trách nhiệm trước pháp luật và không được cấp IDP trong thời hạn 03 năm, kể từ ngày bị phát hiện hành vi vi phạm."
+        }
+      ]
+    },
+    "id": "corrected-idp-long",
+    "expected": "pass"
+  },
+  {
+    "row": {
+      "id": "only-supported",
+      "expected": "pass",
+      "query": "IDP được cấp tối đa mấy năm?",
+      "answer": "IDP chỉ có thời hạn tối đa 3 năm, còn bị ràng buộc bởi thời hạn còn hiệu lực của GPLX quốc gia. [1]",
+      "results": [
+        {
+          "rank": 1,
+          "content": "IDP có thời hạn không quá 03 năm, kể từ ngày cấp và phải phù hợp với thời hạn còn hiệu lực của giấy phép lái xe quốc gia."
+        }
+      ]
+    },
+    "id": "only-supported",
+    "expected": "pass"
+  },
+  {
+    "row": {
+      "id": "no-only-unsupported",
+      "expected": "fail",
+      "query": "IDP được cấp tối đa mấy năm?",
+      "answer": "IDP luôn được cấp đủ 3 năm, bất kể thời hạn của GPLX quốc gia. [1]",
+      "results": [
+        {
+          "rank": 1,
+          "content": "IDP có thời hạn không quá 03 năm, kể từ ngày cấp và phải phù hợp với thời hạn còn hiệu lực của giấy phép lái xe quốc gia."
+        }
+      ]
+    },
+    "id": "no-only-unsupported",
+    "expected": "fail"
+  },
+  {
+    "row": {
+      "case_id": "fresh-09",
+      "query": "Đến gần điểm xe buýt đang đón trả khách thì tôi cần điều chỉnh tốc độ thế nào?",
+      "history": [],
+      "answer": "Khi **đến gần bến xe buýt hoặc điểm dừng đỗ xe có khách đang lên, xuống xe**, người điều khiển phương tiện phải **giảm tốc độ để có thể dừng lại một cách an toàn**. [6]\n\nTài liệu hiện có **không nêu một mức km/h cụ thể** cho tình huống này, mà chỉ quy định theo nguyên tắc an toàn như trên. [6]\n\nLưu ý: quy định này là thông tin tra cứu, và chỉ áp dụng trong phạm vi nội dung tài liệu được cung cấp. Nếu bạn muốn, tôi có thể tra tiếp xem còn quy định nào khác liên quan đến **xe buýt** hoặc **khu vực bến/điểm dừng xe buýt** trong tài liệu này.",
+      "results": [
+        {
+          "rank": 1,
+          "score": 0.8863,
+          "chunk_id": "eb2675ae870167e85b03ae32",
+          "document_id": "12/2020/TT-BGTVT",
+          "document_id_source": "header",
+          "title": "THÔNG TƯ — Quy định về tổ chức, quản lý hoạt động vận tải bằng xe ô tô và dịch vụ hỗ trợ vận tải đường bộ",
+          "article": "Điều 30. Điểm đầu, điểm cuối, điểm dừng và nhà chờ xe buýt, Lệnh vận chuyển",
+          "source_file": "TT.12.2020.docx",
+          "content": "Điều 30. Điểm đầu, điểm cuối, điểm dừng và nhà chờ xe buýt, Lệnh vận chuyển\n1. Điểm đầu, điểm cuối của tuyến xe buýt\na) Có đủ diện tích cho xe buýt quay trở đầu xe, đỗ xe đảm bảo an toàn giao thông;\nb) Có bảng thông tin các nội dung: tên tuyến; số hiệu tuyến; hành trình; tần suất chạy xe; thời gian hoạt động trong ngày của tuyến; số điện thoại của cơ quan quản lý tuyến và doanh nghiệp, hợp tác xã tham gia khai thác tuyến; trách nhiệm của hành khách, người lái xe, nhân viên phục vụ trên xe;\nc) Có nhà chờ cho hành khách.\n2. Điểm dừng xe buýt\na) Khu vực xe buýt dừng đón, trả khách được báo hiệu bằng biển báo và vạch sơn kẻ đường theo quy định; trên biển báo hiệu phải ghi số hiệu tuyến hoặc mã số tuyến, tên tuyến (điểm đầu - điểm cuối), hành trình tuyến rút gọn ở phía sau biển báo;\nb) Tại các điểm dừng xe buýt trong đô thị nếu có bề rộng hè đường từ 05 mét trở lên và ngoài đô thị nếu có bề rộng lề đường từ 2,5 mét trở lên phải xây dựng nhà chờ xe buýt;\nc) Sở Giao thông vận tải công bố mẫu biển báo điểm dừng xe buýt áp dụng trong phạm vi địa phương mình.\n3. Tại các bến xe khách, nhà ga đường sắt, cảng hàng không, cảng, bến thủy nội địa, cảng biển có hành trình tuyến xe buýt đi qua phải bố trí điểm dừng đón, trả khách cho xe buýt để kết nối với các phương thức vận tải khác.\n4. Nhà chờ xe buýt\na) Sở Giao thông vận tải công bố mẫu biển báo điểm dừng xe buýt áp dụng trong phạm vi địa phương mình;\nb) Tại nhà chờ xe buýt phải niêm yết các thông tin: số hiệu tuyến, tên tuyến, hành trình, tần suất chạy xe, thời gian hoạt động trong ngày của tuyến, số điện thoại di động đường dây nóng của đơn vị kinh doanh vận tải và Sở Giao thông vận tải địa phương, bản đồ hoặc sơ đồ mạng lưới tuyến.\n5."
+        },
+        {
+          "rank": 2,
+          "score": 0.8765,
+          "chunk_id": "c2e25d7f1d11125e6ea99b0a",
+          "document_id": "12/2020/TT-BGTVT",
+          "document_id_source": "header",
+          "title": "THÔNG TƯ — Quy định về tổ chức, quản lý hoạt động vận tải bằng xe ô tô và dịch vụ hỗ trợ vận tải đường bộ",
+          "article": "Điều 18. Hướng dẫn về tổ chức, quản lý và tiêu chí điểm dừng đón, trả khách tuyến cố định",
+          "source_file": "TT.12.2020.docx",
+          "content": "Điều 18. Hướng dẫn về tổ chức, quản lý và tiêu chí điểm dừng đón, trả khách tuyến cố định\n1. Tiêu chí của điểm dừng đón, trả khách\na) Điểm dừng đón, trả khách chỉ được bố trí tại các vị trí đảm bảo an toàn giao thông, thuận tiện cho hành khách lên, xuống xe;\nb) Có đủ diện tích để xe dừng đón, trả khách bảo đảm không ảnh hưởng đến các phương tiện lưu thông trên đường;\nc) Điểm dừng đón, trả khách sử dụng bằng Biển chỉ dẫn (Biển số I.434a) áp dụng cho tuyến cố định theo Quy chuẩn kỹ thuật quốc gia về báo hiệu đường bộ số QCVN 41:2019/BGTVT ban hành kèm theo Thông tư số 54/2019/TT-BGTVT ngày 31/12/2019 của Bộ trưởng Bộ Giao thông vận tải;\nd) Khoảng cách tối thiểu giữa 02 điểm dừng đón, trả khách liền kề hoặc giữa điểm dừng đón, trả khách với trạm dừng nghỉ hoặc với bến xe hai đầu tuyến do Sở Giao thông vận tải căn cứ tình hình thực tế và việc tổ chức giao thông của địa phương mình để xác định.\n2. Tổ chức, quản lý điểm dừng đón, trả khách\na) Điểm dừng đón, trả khách chỉ phục vụ các xe ô tô vận tải hành khách tuyến cố định đón, trả khách; không sử dụng cho hoạt động khác;\nb) Tại điểm dừng đón, trả khách chỉ cho phép mỗi xe ô tô vận tải hành khách tuyến cố định được dừng tối đa không quá 03 phút;\nc) Sở Giao thông vận tải địa phương xác định vị trí điểm dừng đón, trả khách tuyến cố định (đối với các tuyến quốc lộ phải thống nhất với cơ quan quản lý đường bộ có thẩm quyền; đối với các tuyến đường do Ủy ban nhân dân cấp huyện (thành phố) quản lý phải thống nhất với Ủy ban nhân dân cấp huyện (thành phố)) trình Ủy ban nhân dân cấp tỉnh phê duyệt;\nd) Sở Giao thông vận tải tham mưu cho Ủy ban nhân dân cấp tỉnh tổ chức, quản lý, đảm bảo an toàn giao thông, an ninh trật tự và vệ sinh môi trường tại khu vực điểm dừng đón, trả khách trên địa bàn địa phương;"
+        },
+        {
+          "rank": 3,
+          "score": 0.8734,
+          "chunk_id": "08f6b74f655820545b6b6b61",
+          "document_id": "50/2015/TT-BGTVT",
+          "document_id_source": "header",
+          "title": "THÔNG TƯ — Hướng dẫn thực hiện một số điều của Nghị định số 11/2010/NĐ-CP",
+          "article": "Điều 65. Tổ chức thực hiện",
+          "source_file": "VanBanGoc_50.2015.TT.BGTVT.pdf",
+          "content": "giao\n\n- Xác định những vị trí khi dừng đỗ xe buýt không làm ảnh hưởng tới hoạt\n\nđộng của các xe khác.\n\n♦ Lối vào các công trình làm phát sinh giao thông ví dụ: trung tâm mua sắm\n\nhoặc khu công nghiệp và những điểm có lối vào nhà\n\n♦ Kiểm tra các lối rẽ có thể tạo ra những xung đột về giao thông ngoài dự\n\nkiến hoặc những xung đột gây nguy hiểm\n\nNút giao có tín hiệu giao thông (Đèn tín hiệu cho người đi bộ nằm giữa 2 nút giao)\nKiểm tra:\n♦ Tín hiệu giao thông được lắp đặt tại những nơi đảm bảo\n♦ Phân bố tín hiệu đèn phù hợp với hoạt động cần thiết của xe và người đi bộ\n♦ Không phát sinh các tình huống xung đột ngoài dự kiến khi phân bố tín\n\nhiệu đèn, và bố trí tín hiệu đèn rẽ phải ở những chỗ cần thiết\n♦ Đủ thời gian giữa 2 lần đèn xanh để đảm bảo thông xe an toàn\n♦ Thời gian giữa các pha đèn tín hiệu đủ để xe chạy qua an toàn\n♦ Số lượng và vị trí đèn tín hiệu và cột đèn tín hiệu đảm bảo mỗi làn xe hoạt\nđộng có ít nhất 2 (tốt hơn là 3 hoặc 4) đèn tín hiệu kiểm soát và đáp ứng\nyêu cầu tầm nhìn tối thiểu\n\n♦ Bố trí khoảng cách tương xứng từ mép vỉa hè đến đèn tín hiệu, và không\nlắp đặt trên đảo giao thông và dải phân cách quá nhỏ hoặc quá hẹp vì\nkhông có đủ khoảng cách từ mép vỉa hè tới các thiết bị này\n\n♦ Đưa ra đúng kích thước đèn tín hiệu\n\n\fCÔNG BÁO/Số 1055 + 1056/Ngày 20-10-2015\n\n61\n\n♦ Bố trí hiển thị tín hiệu người đi bộ và nút bấm tín hiệu ưu tiên qua đường\ncủa người đi bộ tại những vị trí dự kiến sẽ có người đi bộ cắt ngang đường\ncó tín hiệu điều khiển\n\nNút giao vòng xuyến\nKiểm tra:\n♦ Bố trí đơn giản và dễ hiểu\n♦ Số lượng đường vào phù hợp và được phân chia phù hợp để tránh nhầm lẫn\n♦ Bề rộng làn nhập vào, làn đi vòng và làn tách phù hợp với hoạt động xe\n♦ Thiết kế và vị trí đảo phân luồng, đảo trung tâm kiểm soát tốc độ xe chạy"
+        },
+        {
+          "rank": 4,
+          "score": 0.8686,
+          "chunk_id": "17580012517f8bf943166170",
+          "document_id": "50/2015/TT-BGTVT",
+          "document_id_source": "header",
+          "title": "THÔNG TƯ — Hướng dẫn thực hiện một số điều của Nghị định số 11/2010/NĐ-CP",
+          "article": "Điều 28. Đấu nối tạm thời có thời hạn vào quốc lộ đang khai thác",
+          "source_file": "50.2015.TT.BGTVT.docx",
+          "content": "c hiện\na) Tổ chức, cá nhân có nhu cầu đấu nối tạm thời gửi 01 bộ hồ sơ về Sở Giao thông vận tải.\nb) Thủ tục tiếp nhận theo quy định tại điểm a, b khoản 2 Điều 19 của Thông tư này.\nc) Sở Giao thông vận tải thẩm định hồ sơ, trình Ủy ban nhân dân tỉnh; Ủy ban nhân dân tỉnh gửi văn bản đề nghị thỏa thuận điểm đấu nối tạm thời đến Tổng cục Đường bộ Việt Nam kèm theo hồ sơ quy định tại khoản 3 Điều này. Văn bản Ủy ban nhân dân tỉnh nêu rõ lý do, vị trí, lý trình điểm đấu nối, thời gian sử dụng điểm đấu nối tạm thời và ý kiến liên quan đến hoàn trả hiện trạng ban đầu.\nd) Tổng cục Đường bộ Việt Nam xem xét, chấp thuận đấu nối tạm thời trong thời hạn 10 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định; trường hợp không chấp thuận đấu nối tạm thời phải trả lời bằng văn bản cho Ủy ban nhân dân tỉnh.\nđ) Trong thời hạn không quá 05 ngày kể từ ngày có văn bản chấp thuận của Tổng cục Đường bộ Việt Nam, Ủy ban nhân dân tỉnh có văn bản trả lời chủ đầu tư dự án.\n5. Việc chấp thuận thiết kế, cấp phép thi công điểm đấu nối tạm thời thực hiện theo quy định tại Điều 26 và Điều 27 Thông tư này."
+        },
+        {
+          "rank": 5,
+          "score": 0.8676,
+          "chunk_id": "b542df144561b9fd13e08b95",
+          "document_id": "12/2020/TT-BGTVT",
+          "document_id_source": "header",
+          "title": "THÔNG TƯ — Quy định về tổ chức, quản lý hoạt động vận tải bằng xe ô tô và dịch vụ hỗ trợ vận tải đường bộ",
+          "article": "Điều 29. Quy định đối với xe buýt",
+          "source_file": "TT.12.2020.docx",
+          "content": "Điều 29. Quy định đối với xe buýt\n1. Phải đáp ứng đầy đủ các quy định tại khoản 2 Điều 5 của Nghị định số 10/2020/NĐ-CP.\n2. Trên xe có trang bị dụng cụ thoát hiểm, bình chữa cháy còn sử dụng được và còn hạn theo quy định.\n3. Có phù hiệu “XE BUÝT” theo mẫu quy định tại Phụ lục 7 ban hành kèm theo Thông tư này. Phù hiệu được dán cố định tại góc trên bên phải ngay sát phía dưới vị trí của Tem kiểm định, mặt trong kính chắn gió phía trước của xe.\n4. Niêm yết thông tin:\na) Niêm yết bên ngoài xe:\nPhía trên kính trước và sau xe: số hiệu tuyến hoặc mã số tuyến, điểm đầu, điểm cuối của tuyến;\nHai bên thành xe: số hiệu tuyến hoặc mã số tuyến; giá vé và số điện thoại của doanh nghiệp, hợp tác xã;\nb) Niêm yết bên trong xe: biển số đăng ký xe (biển kiểm soát xe), số hiệu tuyến hoặc mã số tuyến; sơ đồ vị trí điểm đầu, điểm cuối và các điểm dừng dọc tuyến; giá vé; số điện thoại di động đường dây nóng của đơn vị kinh doanh vận tải và Sở Giao thông vận tải địa phương; trách nhiệm của người lái xe, nhân viên phục vụ trên xe và hành khách;\nc) Bên trong xe có Bảng hướng dẫn về an toàn giao thông và thoát hiểm ở vị trí hành khách dễ quan sát, các nội dung chính gồm: hướng dẫn cài dây an toàn (nếu có); hướng dẫn sắp xếp hành lý; biển cấm hút thuốc lá trên xe; hướng dẫn sử dụng hệ thống điện trên xe (nếu có); hướng dẫn cách sử dụng bình cứu hỏa, búa thoát hiểm và hướng thoát hiểm khi xảy ra sự cố."
+        },
+        {
+          "rank": 6,
+          "score": 0.8674,
+          "chunk_id": "71daf3e77b45974a7828b0f4",
+          "document_id": "31/2019/TT-BGTVT",
+          "document_id_source": "header",
+          "title": "THÔNG TƯ — Quy định về tốc độ và khoảng cách an toàn",
+          "article": "Điều 5. Các trường hợp phải giảm tốc độ",
+          "source_file": "TT.31.2019.TT.BGTVT.docx",
+          "content": "Điều 5. Các trường hợp phải giảm tốc độ\nNgười điều khiển phương tiện tham gia giao thông đường bộ phải giảm tốc độ để có thể dừng lại một cách an toàn trong các trường hợp sau:\n1. Có báo hiệu cảnh báo nguy hiểm hoặc có chướng ngại vật trên đường;\n2. Chuyển hướng xe chạy hoặc tầm nhìn bị hạn chế;\n3. Qua nơi đường bộ giao nhau cùng mức; nơi đường bộ giao nhau cùng mức với đường sắt; đường vòng; đường có địa hình quanh co, đèo dốc; đoạn đường có mặt đường hẹp, không êm thuận;\n4. Qua cầu, cống hẹp; đi qua đập tràn, đường ngầm, hầm chui; khi lên gần đỉnh dốc, khi xuống dốc;\n5. Qua khu vực có trường học, bệnh viện, bến xe, công trình công cộng tập trung nhiều người; khu vực đông dân cư, nhà máy, công sở tập trung bên đường; khu vực đang thi công trên đường bộ; hiện trường xảy ra tai nạn giao thông;\n6. Khi có người đi bộ, xe lăn của người khuyết tật qua đường;\n7. Có súc vật đi trên đường hoặc chăn thả ở sát đường;\n8. Tránh xe chạy ngược chiều hoặc khi cho xe chạy sau vượt; khi có tín hiệu xin đường, tín hiệu khẩn cấp của xe đi phía trước;\n9. Đến gần bến xe buýt, điểm dừng đỗ xe có khách đang lên, xuống xe;\n10. Gặp xe ưu tiên đang thực hiện nhiệm vụ; gặp xe siêu trường, xe siêu trọng, xe chở hàng nguy hiểm; gặp đoàn người đi bộ;\n11. Trời mưa; có sương mù, khói, bụi; mặt đường trơn trượt, lầy lội, có nhiều đất đá, vật liệu rơi vãi;\n12. Khi điều khiển phương tiện đi qua khu vực trạm kiểm soát tải trọng xe, trạm cảnh sát giao thông, trạm giao dịch thanh toán đối với các phương tiện sử dụng đường bộ.\nChương II\nQUY ĐỊNH TỐC ĐỘ, KHOẢNG CÁCH CỦA XE CƠ GIỚI, XE MÁY CHUYÊN DÙNG THAM GIA GIAO THÔNG TRÊN ĐƯỜNG BỘ"
+        }
+      ],
+      "trace_id": "01a08084-9c45-70f0-99a3-687eda2668ae"
+    },
+    "id": "bus-stop-long",
+    "expected": "pass"
+  },
+  {
+    "row": {
+      "case_id": "fresh-09",
+      "query": "Đến gần điểm xe buýt đang đón trả khách thì tôi cần điều chỉnh tốc độ thế nào?",
+      "history": [],
+      "answer": "Khi **đến gần bến xe buýt hoặc điểm dừng đỗ xe có khách đang lên, xuống xe**, người điều khiển phương tiện phải **giảm tốc độ để có thể dừng lại một cách an toàn**. [6]\n\nTài liệu hiện có **không nêu một mức km/h cụ thể** cho tình huống này, mà chỉ quy định theo nguyên tắc an toàn như trên. [6]\n\nLưu ý: quy định này là thông tin tra cứu, và chỉ áp dụng trong phạm vi nội dung tài liệu được cung cấp. Nếu bạn muốn, tôi có thể tra tiếp xem còn quy định nào khác liên quan đến **xe buýt** hoặc **khu vực bến/điểm dừng xe buýt** trong tài liệu này.\nBạn luôn phải giảm xuống đúng 20 km/h tại mọi điểm xe buýt. [6]",
+      "results": [
+        {
+          "rank": 1,
+          "score": 0.8863,
+          "chunk_id": "eb2675ae870167e85b03ae32",
+          "document_id": "12/2020/TT-BGTVT",
+          "document_id_source": "header",
+          "title": "THÔNG TƯ — Quy định về tổ chức, quản lý hoạt động vận tải bằng xe ô tô và dịch vụ hỗ trợ vận tải đường bộ",
+          "article": "Điều 30. Điểm đầu, điểm cuối, điểm dừng và nhà chờ xe buýt, Lệnh vận chuyển",
+          "source_file": "TT.12.2020.docx",
+          "content": "Điều 30. Điểm đầu, điểm cuối, điểm dừng và nhà chờ xe buýt, Lệnh vận chuyển\n1. Điểm đầu, điểm cuối của tuyến xe buýt\na) Có đủ diện tích cho xe buýt quay trở đầu xe, đỗ xe đảm bảo an toàn giao thông;\nb) Có bảng thông tin các nội dung: tên tuyến; số hiệu tuyến; hành trình; tần suất chạy xe; thời gian hoạt động trong ngày của tuyến; số điện thoại của cơ quan quản lý tuyến và doanh nghiệp, hợp tác xã tham gia khai thác tuyến; trách nhiệm của hành khách, người lái xe, nhân viên phục vụ trên xe;\nc) Có nhà chờ cho hành khách.\n2. Điểm dừng xe buýt\na) Khu vực xe buýt dừng đón, trả khách được báo hiệu bằng biển báo và vạch sơn kẻ đường theo quy định; trên biển báo hiệu phải ghi số hiệu tuyến hoặc mã số tuyến, tên tuyến (điểm đầu - điểm cuối), hành trình tuyến rút gọn ở phía sau biển báo;\nb) Tại các điểm dừng xe buýt trong đô thị nếu có bề rộng hè đường từ 05 mét trở lên và ngoài đô thị nếu có bề rộng lề đường từ 2,5 mét trở lên phải xây dựng nhà chờ xe buýt;\nc) Sở Giao thông vận tải công bố mẫu biển báo điểm dừng xe buýt áp dụng trong phạm vi địa phương mình.\n3. Tại các bến xe khách, nhà ga đường sắt, cảng hàng không, cảng, bến thủy nội địa, cảng biển có hành trình tuyến xe buýt đi qua phải bố trí điểm dừng đón, trả khách cho xe buýt để kết nối với các phương thức vận tải khác.\n4. Nhà chờ xe buýt\na) Sở Giao thông vận tải công bố mẫu biển báo điểm dừng xe buýt áp dụng trong phạm vi địa phương mình;\nb) Tại nhà chờ xe buýt phải niêm yết các thông tin: số hiệu tuyến, tên tuyến, hành trình, tần suất chạy xe, thời gian hoạt động trong ngày của tuyến, số điện thoại di động đường dây nóng của đơn vị kinh doanh vận tải và Sở Giao thông vận tải địa phương, bản đồ hoặc sơ đồ mạng lưới tuyến.\n5."
+        },
+        {
+          "rank": 2,
+          "score": 0.8765,
+          "chunk_id": "c2e25d7f1d11125e6ea99b0a",
+          "document_id": "12/2020/TT-BGTVT",
+          "document_id_source": "header",
+          "title": "THÔNG TƯ — Quy định về tổ chức, quản lý hoạt động vận tải bằng xe ô tô và dịch vụ hỗ trợ vận tải đường bộ",
+          "article": "Điều 18. Hướng dẫn về tổ chức, quản lý và tiêu chí điểm dừng đón, trả khách tuyến cố định",
+          "source_file": "TT.12.2020.docx",
+          "content": "Điều 18. Hướng dẫn về tổ chức, quản lý và tiêu chí điểm dừng đón, trả khách tuyến cố định\n1. Tiêu chí của điểm dừng đón, trả khách\na) Điểm dừng đón, trả khách chỉ được bố trí tại các vị trí đảm bảo an toàn giao thông, thuận tiện cho hành khách lên, xuống xe;\nb) Có đủ diện tích để xe dừng đón, trả khách bảo đảm không ảnh hưởng đến các phương tiện lưu thông trên đường;\nc) Điểm dừng đón, trả khách sử dụng bằng Biển chỉ dẫn (Biển số I.434a) áp dụng cho tuyến cố định theo Quy chuẩn kỹ thuật quốc gia về báo hiệu đường bộ số QCVN 41:2019/BGTVT ban hành kèm theo Thông tư số 54/2019/TT-BGTVT ngày 31/12/2019 của Bộ trưởng Bộ Giao thông vận tải;\nd) Khoảng cách tối thiểu giữa 02 điểm dừng đón, trả khách liền kề hoặc giữa điểm dừng đón, trả khách với trạm dừng nghỉ hoặc với bến xe hai đầu tuyến do Sở Giao thông vận tải căn cứ tình hình thực tế và việc tổ chức giao thông của địa phương mình để xác định.\n2. Tổ chức, quản lý điểm dừng đón, trả khách\na) Điểm dừng đón, trả khách chỉ phục vụ các xe ô tô vận tải hành khách tuyến cố định đón, trả khách; không sử dụng cho hoạt động khác;\nb) Tại điểm dừng đón, trả khách chỉ cho phép mỗi xe ô tô vận tải hành khách tuyến cố định được dừng tối đa không quá 03 phút;\nc) Sở Giao thông vận tải địa phương xác định vị trí điểm dừng đón, trả khách tuyến cố định (đối với các tuyến quốc lộ phải thống nhất với cơ quan quản lý đường bộ có thẩm quyền; đối với các tuyến đường do Ủy ban nhân dân cấp huyện (thành phố) quản lý phải thống nhất với Ủy ban nhân dân cấp huyện (thành phố)) trình Ủy ban nhân dân cấp tỉnh phê duyệt;\nd) Sở Giao thông vận tải tham mưu cho Ủy ban nhân dân cấp tỉnh tổ chức, quản lý, đảm bảo an toàn giao thông, an ninh trật tự và vệ sinh môi trường tại khu vực điểm dừng đón, trả khách trên địa bàn địa phương;"
+        },
+        {
+          "rank": 3,
+          "score": 0.8734,
+          "chunk_id": "08f6b74f655820545b6b6b61",
+          "document_id": "50/2015/TT-BGTVT",
+          "document_id_source": "header",
+          "title": "THÔNG TƯ — Hướng dẫn thực hiện một số điều của Nghị định số 11/2010/NĐ-CP",
+          "article": "Điều 65. Tổ chức thực hiện",
+          "source_file": "VanBanGoc_50.2015.TT.BGTVT.pdf",
+          "content": "giao\n\n- Xác định những vị trí khi dừng đỗ xe buýt không làm ảnh hưởng tới hoạt\n\nđộng của các xe khác.\n\n♦ Lối vào các công trình làm phát sinh giao thông ví dụ: trung tâm mua sắm\n\nhoặc khu công nghiệp và những điểm có lối vào nhà\n\n♦ Kiểm tra các lối rẽ có thể tạo ra những xung đột về giao thông ngoài dự\n\nkiến hoặc những xung đột gây nguy hiểm\n\nNút giao có tín hiệu giao thông (Đèn tín hiệu cho người đi bộ nằm giữa 2 nút giao)\nKiểm tra:\n♦ Tín hiệu giao thông được lắp đặt tại những nơi đảm bảo\n♦ Phân bố tín hiệu đèn phù hợp với hoạt động cần thiết của xe và người đi bộ\n♦ Không phát sinh các tình huống xung đột ngoài dự kiến khi phân bố tín\n\nhiệu đèn, và bố trí tín hiệu đèn rẽ phải ở những chỗ cần thiết\n♦ Đủ thời gian giữa 2 lần đèn xanh để đảm bảo thông xe an toàn\n♦ Thời gian giữa các pha đèn tín hiệu đủ để xe chạy qua an toàn\n♦ Số lượng và vị trí đèn tín hiệu và cột đèn tín hiệu đảm bảo mỗi làn xe hoạt\nđộng có ít nhất 2 (tốt hơn là 3 hoặc 4) đèn tín hiệu kiểm soát và đáp ứng\nyêu cầu tầm nhìn tối thiểu\n\n♦ Bố trí khoảng cách tương xứng từ mép vỉa hè đến đèn tín hiệu, và không\nlắp đặt trên đảo giao thông và dải phân cách quá nhỏ hoặc quá hẹp vì\nkhông có đủ khoảng cách từ mép vỉa hè tới các thiết bị này\n\n♦ Đưa ra đúng kích thước đèn tín hiệu\n\n\fCÔNG BÁO/Số 1055 + 1056/Ngày 20-10-2015\n\n61\n\n♦ Bố trí hiển thị tín hiệu người đi bộ và nút bấm tín hiệu ưu tiên qua đường\ncủa người đi bộ tại những vị trí dự kiến sẽ có người đi bộ cắt ngang đường\ncó tín hiệu điều khiển\n\nNút giao vòng xuyến\nKiểm tra:\n♦ Bố trí đơn giản và dễ hiểu\n♦ Số lượng đường vào phù hợp và được phân chia phù hợp để tránh nhầm lẫn\n♦ Bề rộng làn nhập vào, làn đi vòng và làn tách phù hợp với hoạt động xe\n♦ Thiết kế và vị trí đảo phân luồng, đảo trung tâm kiểm soát tốc độ xe chạy"
+        },
+        {
+          "rank": 4,
+          "score": 0.8686,
+          "chunk_id": "17580012517f8bf943166170",
+          "document_id": "50/2015/TT-BGTVT",
+          "document_id_source": "header",
+          "title": "THÔNG TƯ — Hướng dẫn thực hiện một số điều của Nghị định số 11/2010/NĐ-CP",
+          "article": "Điều 28. Đấu nối tạm thời có thời hạn vào quốc lộ đang khai thác",
+          "source_file": "50.2015.TT.BGTVT.docx",
+          "content": "c hiện\na) Tổ chức, cá nhân có nhu cầu đấu nối tạm thời gửi 01 bộ hồ sơ về Sở Giao thông vận tải.\nb) Thủ tục tiếp nhận theo quy định tại điểm a, b khoản 2 Điều 19 của Thông tư này.\nc) Sở Giao thông vận tải thẩm định hồ sơ, trình Ủy ban nhân dân tỉnh; Ủy ban nhân dân tỉnh gửi văn bản đề nghị thỏa thuận điểm đấu nối tạm thời đến Tổng cục Đường bộ Việt Nam kèm theo hồ sơ quy định tại khoản 3 Điều này. Văn bản Ủy ban nhân dân tỉnh nêu rõ lý do, vị trí, lý trình điểm đấu nối, thời gian sử dụng điểm đấu nối tạm thời và ý kiến liên quan đến hoàn trả hiện trạng ban đầu.\nd) Tổng cục Đường bộ Việt Nam xem xét, chấp thuận đấu nối tạm thời trong thời hạn 10 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định; trường hợp không chấp thuận đấu nối tạm thời phải trả lời bằng văn bản cho Ủy ban nhân dân tỉnh.\nđ) Trong thời hạn không quá 05 ngày kể từ ngày có văn bản chấp thuận của Tổng cục Đường bộ Việt Nam, Ủy ban nhân dân tỉnh có văn bản trả lời chủ đầu tư dự án.\n5. Việc chấp thuận thiết kế, cấp phép thi công điểm đấu nối tạm thời thực hiện theo quy định tại Điều 26 và Điều 27 Thông tư này."
+        },
+        {
+          "rank": 5,
+          "score": 0.8676,
+          "chunk_id": "b542df144561b9fd13e08b95",
+          "document_id": "12/2020/TT-BGTVT",
+          "document_id_source": "header",
+          "title": "THÔNG TƯ — Quy định về tổ chức, quản lý hoạt động vận tải bằng xe ô tô và dịch vụ hỗ trợ vận tải đường bộ",
+          "article": "Điều 29. Quy định đối với xe buýt",
+          "source_file": "TT.12.2020.docx",
+          "content": "Điều 29. Quy định đối với xe buýt\n1. Phải đáp ứng đầy đủ các quy định tại khoản 2 Điều 5 của Nghị định số 10/2020/NĐ-CP.\n2. Trên xe có trang bị dụng cụ thoát hiểm, bình chữa cháy còn sử dụng được và còn hạn theo quy định.\n3. Có phù hiệu “XE BUÝT” theo mẫu quy định tại Phụ lục 7 ban hành kèm theo Thông tư này. Phù hiệu được dán cố định tại góc trên bên phải ngay sát phía dưới vị trí của Tem kiểm định, mặt trong kính chắn gió phía trước của xe.\n4. Niêm yết thông tin:\na) Niêm yết bên ngoài xe:\nPhía trên kính trước và sau xe: số hiệu tuyến hoặc mã số tuyến, điểm đầu, điểm cuối của tuyến;\nHai bên thành xe: số hiệu tuyến hoặc mã số tuyến; giá vé và số điện thoại của doanh nghiệp, hợp tác xã;\nb) Niêm yết bên trong xe: biển số đăng ký xe (biển kiểm soát xe), số hiệu tuyến hoặc mã số tuyến; sơ đồ vị trí điểm đầu, điểm cuối và các điểm dừng dọc tuyến; giá vé; số điện thoại di động đường dây nóng của đơn vị kinh doanh vận tải và Sở Giao thông vận tải địa phương; trách nhiệm của người lái xe, nhân viên phục vụ trên xe và hành khách;\nc) Bên trong xe có Bảng hướng dẫn về an toàn giao thông và thoát hiểm ở vị trí hành khách dễ quan sát, các nội dung chính gồm: hướng dẫn cài dây an toàn (nếu có); hướng dẫn sắp xếp hành lý; biển cấm hút thuốc lá trên xe; hướng dẫn sử dụng hệ thống điện trên xe (nếu có); hướng dẫn cách sử dụng bình cứu hỏa, búa thoát hiểm và hướng thoát hiểm khi xảy ra sự cố."
+        },
+        {
+          "rank": 6,
+          "score": 0.8674,
+          "chunk_id": "71daf3e77b45974a7828b0f4",
+          "document_id": "31/2019/TT-BGTVT",
+          "document_id_source": "header",
+          "title": "THÔNG TƯ — Quy định về tốc độ và khoảng cách an toàn",
+          "article": "Điều 5. Các trường hợp phải giảm tốc độ",
+          "source_file": "TT.31.2019.TT.BGTVT.docx",
+          "content": "Điều 5. Các trường hợp phải giảm tốc độ\nNgười điều khiển phương tiện tham gia giao thông đường bộ phải giảm tốc độ để có thể dừng lại một cách an toàn trong các trường hợp sau:\n1. Có báo hiệu cảnh báo nguy hiểm hoặc có chướng ngại vật trên đường;\n2. Chuyển hướng xe chạy hoặc tầm nhìn bị hạn chế;\n3. Qua nơi đường bộ giao nhau cùng mức; nơi đường bộ giao nhau cùng mức với đường sắt; đường vòng; đường có địa hình quanh co, đèo dốc; đoạn đường có mặt đường hẹp, không êm thuận;\n4. Qua cầu, cống hẹp; đi qua đập tràn, đường ngầm, hầm chui; khi lên gần đỉnh dốc, khi xuống dốc;\n5. Qua khu vực có trường học, bệnh viện, bến xe, công trình công cộng tập trung nhiều người; khu vực đông dân cư, nhà máy, công sở tập trung bên đường; khu vực đang thi công trên đường bộ; hiện trường xảy ra tai nạn giao thông;\n6. Khi có người đi bộ, xe lăn của người khuyết tật qua đường;\n7. Có súc vật đi trên đường hoặc chăn thả ở sát đường;\n8. Tránh xe chạy ngược chiều hoặc khi cho xe chạy sau vượt; khi có tín hiệu xin đường, tín hiệu khẩn cấp của xe đi phía trước;\n9. Đến gần bến xe buýt, điểm dừng đỗ xe có khách đang lên, xuống xe;\n10. Gặp xe ưu tiên đang thực hiện nhiệm vụ; gặp xe siêu trường, xe siêu trọng, xe chở hàng nguy hiểm; gặp đoàn người đi bộ;\n11. Trời mưa; có sương mù, khói, bụi; mặt đường trơn trượt, lầy lội, có nhiều đất đá, vật liệu rơi vãi;\n12. Khi điều khiển phương tiện đi qua khu vực trạm kiểm soát tải trọng xe, trạm cảnh sát giao thông, trạm giao dịch thanh toán đối với các phương tiện sử dụng đường bộ.\nChương II\nQUY ĐỊNH TỐC ĐỘ, KHOẢNG CÁCH CỦA XE CƠ GIỚI, XE MÁY CHUYÊN DÙNG THAM GIA GIAO THÔNG TRÊN ĐƯỜNG BỘ"
+        }
+      ],
+      "trace_id": "01a08084-9c45-70f0-99a3-687eda2668ae"
+    },
+    "id": "bus-stop-invented-number",
+    "expected": "fail"
+  }
+]
